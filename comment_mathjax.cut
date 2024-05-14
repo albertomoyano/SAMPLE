@@ -1,0 +1,47 @@
+\CustomizeMathJax{\def\LWRfootnote{1}}
+\CustomizeMathJax{\newcommand{\footnote}[2][\LWRfootnote]{{}^{\mathrm{#1}}}}
+\CustomizeMathJax{\newcommand{\footnotemark}[1][\LWRfootnote]{{}^{\mathrm{#1}}}}
+\CustomizeMathJax{\let\LWRorighspace\hspace}
+\CustomizeMathJax{\renewcommand{\hspace}{\ifstar\LWRorighspace\LWRorighspace}}
+\CustomizeMathJax{\newcommand{\mathnormal}[1]{{#1}}}
+\CustomizeMathJax{\newcommand\ensuremath[1]{#1}}
+\CustomizeMathJax{% absorb two optional arguments
+    \newcommand{\LWRframebox}[2][]{\fbox{#2}}
+    \newcommand{\framebox}[1][]{\LWRframebox}
+}
+\CustomizeMathJax{\newcommand{\setlength}[2]{}}
+\CustomizeMathJax{\newcommand{\addtolength}[2]{}}
+\CustomizeMathJax{\newcommand{\setcounter}[2]{}}
+\CustomizeMathJax{\newcommand{\addtocounter}[2]{}}
+\CustomizeMathJax{\newcommand{\arabic}[1]{}}
+\CustomizeMathJax{\newcommand{\number}[1]{}}
+\CustomizeMathJax{\newcommand{\noalign}[1]{\text{#1}\notag \\}}
+\CustomizeMathJax{\newcommand{\cline}[1]{}}
+\CustomizeMathJax{\newcommand{\directlua}[1]{\text{(directlua)}}}
+\CustomizeMathJax{\newcommand{\luatexdirectlua}[1]{\text{(directlua)}}}
+\CustomizeMathJax{\newcommand{\protect}{}}
+\CustomizeMathJax{\def\LWRabsorbnumber#1 {}}
+\CustomizeMathJax{\def\LWRabsorbquotenumber"#1 {}}
+\CustomizeMathJax{\newcommand{\LWRabsorboption}[1][]{}}
+\CustomizeMathJax{\newcommand{\LWRabsorbtwooptions}[1][]{\LWRabsorboption}}
+\CustomizeMathJax{\def\mathchar{\ifnextchar"\LWRabsorbquotenumber\LWRabsorbnumber}}
+\CustomizeMathJax{\def\mathcode#1={\mathchar}}
+\CustomizeMathJax{\let\delcode\mathcode}
+\CustomizeMathJax{\let\delimiter\mathchar}
+\CustomizeMathJax{\def\oe{\unicode{x0153}}}
+\CustomizeMathJax{\def\OE{\unicode{x0152}}}
+\CustomizeMathJax{\def\ae{\unicode{x00E6}}}
+\CustomizeMathJax{\def\AE{\unicode{x00C6}}}
+\CustomizeMathJax{\def\aa{\unicode{x00E5}}}
+\CustomizeMathJax{\def\AA{\unicode{x00C5}}}
+\CustomizeMathJax{\def\o{\unicode{x00F8}}}
+\CustomizeMathJax{\def\O{\unicode{x00D8}}}
+\CustomizeMathJax{\def\l{\unicode{x0142}}}
+\CustomizeMathJax{\def\L{\unicode{x0141}}}
+\CustomizeMathJax{\def\ss{\unicode{x00DF}}}
+\CustomizeMathJax{\def\SS{\unicode{x1E9E}}}
+\CustomizeMathJax{\def\dag{\unicode{x2020}}}
+\CustomizeMathJax{\def\ddag{\unicode{x2021}}}
+\CustomizeMathJax{\def\P{\unicode{x00B6}}}
+\CustomizeMathJax{\def\copyright{\unicode{x00A9}}}
+\CustomizeMathJax{\def\pounds{\unicode{x00A3}}}

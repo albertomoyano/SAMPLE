@@ -1,0 +1,16 @@
+\@doanenote {1}
+macro:->\lipsum
+[1]
+\@endanenote 
+\@doanenote {2}
+macro:->\lipsum
+[3]
+\@endanenote 
+\@doanenote {3}
+macro:->\lipsum
+[1]
+\@endanenote 
+\@doanenote {4}
+macro:->\lipsum
+[1]
+\@endanenote 

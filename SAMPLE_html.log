@@ -1,0 +1,1894 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.4.18)  14 MAY 2024 09:02
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**SAMPLE_html.tex
+(./SAMPLE_html.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22> (./SAMPLE.tex
+(/usr/share/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2022/07/02 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/share/texmf-dist/tex/latex/lwarp/lwarp.sty
+Package: lwarp 2023/02/28 v0.911 Allows LaTeX to directly produce HTML5 output.
+
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(/usr/share/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+(/usr/share/texmf-dist/tex/generic/ifptex/ifptex.sty
+Package: ifptex 2022/04/03 v2.2 pTeX checker
+)
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count194
+)
+(/usr/share/texmf-dist/tex/latex/xpatch/xpatch.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-02-22 L3 programming layer (loader) 
+
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
+\l__pdf_internal_box=\box51
+))
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2023-02-02 L3 Experimental document command parser
+))
+(/usr/share/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+
+(/usr/share/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Unrestricted shell escape enabled on input line 75.
+)
+(/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texmf-dist/tex/generic/catchfile/catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+
+(/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
+(/usr/share/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+runsystem(uname -s > "SAMPLE_html.w18")...executed.
+
+ (./SAMPLE_html.w18)
+runsystem(rm -- "SAMPLE_html.w18")...executed.
+
+)
+(/usr/share/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(/usr/share/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty
+Package: newunicodechar 2018/04/08 v1.2 Defining Unicode characters
+)
+
+Package newunicodechar Warning: Redefining Unicode character on input line 859.
+
+
+
+Package newunicodechar Warning: Redefining Unicode character on input line 860.
+
+
+
+Package newunicodechar Warning: Redefining Unicode character on input line 861.
+
+
+
+Package newunicodechar Warning: Redefining Unicode character on input line 862.
+
+
+
+Package newunicodechar Warning: Redefining Unicode character on input line 863.
+
+
+
+Package newunicodechar Warning: Redefining Unicode character on input line 864.
+
+
+
+Package newunicodechar Warning: Redefining Unicode character on input line 865.
+
+
+(/usr/share/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+
+(/usr/share/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+))
+\LWR@templengthone=\skip50
+\LWR@templengthtwo=\skip51
+\LWR@templengththree=\skip52
+\c@LWR@tempcountone=\count196
+\c@LWR@texboxdepth=\count197
+
+(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/usr/share/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+Package lwarp Info: Using option 'warpHTML' on input line 1186.
+Package lwarp Info: Using option 'mathjax' on input line 1186.
+
+(/usr/share/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment') Lwarp: Including comment 'warpall'
+Lwarp: Including comment 'warpHTML' Lwarp: Excluding comment 'warpprint'
+Excluding 'warpprint' comment. Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut
+Lwarp: Including comment 'warpMathJax') Excluding 'warpprint' comment.
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut Lwarp: Excluding comment 'warpsvg')
+Lwarp: Excluding comment 'LWRcreatelwarpmk' Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut
+(/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
+\MT@toks=\toks19
+\MT@tempbox=\box52
+\MT@count=\count198
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
+LaTeX Info: Redefining \leftprotrusion on input line 1060.
+\MT@prot@toks=\toks20
+LaTeX Info: Redefining \rightprotrusion on input line 1078.
+LaTeX Info: Redefining \textls on input line 1368.
+\MT@outer@kern=\dimen141
+LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
+\MT@listname@count=\count199
+
+(/usr/share/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 902.
+LaTeX Info: Redefining \lslig on input line 902.
+\MT@outer@space=\skip53
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
+)))
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count266
+\Gm@cntv=\count267
+\c@Gm@tempcnt=\count268
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks21
+))
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut (/usr/share/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count269
+\calc@Bcount=\count270
+\calc@Adimen=\dimen150
+\calc@Bdimen=\dimen151
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count271
+\calc@Cskip=\skip56
+))
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut
+(/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+))
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut
+(/usr/share/texmf-dist/tex/latex/xifthen/xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+))
+(/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks22
+\verbatim@line=\toks23
+\verbatim@in@stream=\read2
+)
+(/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texmf-dist/tex/latex/newfloat/newfloat.sty
+Package: newfloat 2019/09/02 v1.1l Defining new floating environments (AR)
+Package newfloat Info: Document class `book' detected.
+))
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut (/usr/share/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/share/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count272
+\decimalpart=\count273
+)
+Package: xstring 2023/01/14 v1.85 String manipulations (CT)
+)
+(/usr/share/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/usr/share/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks24
+))
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut (/usr/share/texmf-dist/tex/latex/printlen/printlen.sty
+Package: printlen 2009/09/03 v1.1a print lengths with units
+))
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut
+\LWR@quickfile=\write4
+) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut
+\LWR@lateximagesfile=\write5
+)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut
+\LWR@copyoutfile=\write6
+\LWR@copyinfile=\read3
+)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+
+Straight input of comment_all.cut. (./comment_all.cut)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+
+Straight input of comment_all.cut. (./comment_all.cut)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Lwarp: Excluding comment 'LWRwriteconf'
+Excluding 'warpprint' comment. Excluding 'LWRwriteconf' comment.
+Excluding 'LWRwriteconf' comment. Excluding 'LWRwriteconf' comment.
+Excluding 'LWRwriteconf' comment. Excluding 'LWRwriteconf' comment.
+Excluding 'LWRwriteconf' comment. Excluding 'LWRwriteconf' comment.
+Excluding 'LWRwriteconf' comment. Excluding 'LWRwriteconf' comment.
+Excluding 'LWRwriteconf' comment. Excluding 'LWRwriteconf' comment.
+Excluding 'LWRwriteconf' comment. Excluding 'LWRcreatelwarpmk' comment.
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut
+\c@LWR@HTMLpagenum=\count274
+\c@LWR@htmlseqfilenumber=\count275
+\c@LWR@htmlfilenumber=\count276
+)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Excluding 'warpprint' comment. Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Excluding 'warpprint' comment.
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Excluding 'warpprint' comment. Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut
+\c@LWR@spandepth=\count277
+)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Excluding 'warpprint' comment. Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Excluding 'warpprint' comment. Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+
+Straight input of comment_all.cut. (./comment_all.cut
+\c@FootnoteDepth=\count278
+\c@footnoteReset=\count279
+)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut
+\LWR@footnotebox=\box53
+\LWR@mpfootnotes=\box54
+) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Excluding 'warpprint' comment.
+\c@LWR@currentautosecpage=\count280
+\c@LWR@currentautosecfloatpage=\count281
+\c@LWR@previousautopagelabel=\count282
+ Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+
+Straight input of comment_all.cut. (./comment_all.cut
+\c@FileDepth=\count283
+)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpMathJax' comment.
+\openout3 = `comment_mathjax.cut'.
+
+
+Straight input of comment_mathjax.cut. (./comment_mathjax.cut)
+Including 'warpMathJax' comment.
+\openout3 = `comment_mathjax.cut'.
+
+ Straight input of comment_mathjax.cut.
+(./comment_mathjax.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Excluding 'warpprint' comment. Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Excluding 'warpprint' comment.
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut
+\c@LWR@prevFileDepth=\count284
+) Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+
+Straight input of comment_all.cut. (./comment_all.cut)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+
+Straight input of comment_all.cut. (./comment_all.cut)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Excluding 'warpprint' comment.
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Excluding 'warpprint' comment.
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Excluding 'warpprint' comment. Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut
+\HTMLvleftskip=\skip57
+\HTMLleftmargini=\skip58
+) Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+
+Straight input of comment_all.cut. (./comment_all.cut
+\VerbatimHTMLWidth=\skip59
+)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut
+\c@LWR@hlines=\count285
+\c@LWR@hdashedlines=\count286
+\c@LWR@tabulardepth=\count287
+\c@LWR@tabularpardepth=\count288
+\c@LWR@tablecolspecwidth=\count289
+\c@LWR@tablecolspecindex=\count290
+\c@LWR@tableLaTeXcolindex=\count291
+\c@LWR@tabletotalLaTeXcols=\count292
+\c@LWR@tabletotalLaTeXcolsnext=\count293
+\c@LWR@cellcolordepth=\count294
+\c@LWR@tablemulticolswidth=\count295
+\c@LWR@tablemulticolspos=\count296
+\c@LWR@mcolvertbarsl=\count297
+\c@LWR@mcolvertbarsr=\count298
+\c@LWR@mcolvertbarsldash=\count299
+\c@LWR@mcolvertbarsrdash=\count300
+\c@LWR@midrulecounter=\count301
+)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Excluding 'warpprint' comment.
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut
+\rownum=\count302
+\LWR@heavyrulewidth=\skip60
+\LWR@lightrulewidth=\skip61
+\LWR@cmidrulewidth=\skip62
+\LWR@thiscmidrulewidth=\skip63
+\c@LWR@lastmulticolumn=\count303
+\c@LWR@tabhtmlcolindex=\count304
+\c@LWR@tabhtmlcolend=\count305
+\c@LWR@tabhtmlcoltotal=\count306
+) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Excluding 'warpprint' comment. Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+
+Straight input of comment_all.cut. (./comment_all.cut)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut
+\c@LWR@thisautoid=\count307
+\c@LWR@thisautoidWP=\count308
+\c@LWR@nextautoid=\count309
+\c@LWR@nextautopage=\count310
+ (/usr/share/texmf-dist/tex/latex/capt-of/capt-of.sty
+Package: capt-of 2009/12/29 v0.2 standard captions outside of floats
+))
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+
+Straight input of comment_all.cut. (./comment_all.cut
+\c@SideTOCDepth=\count311
+)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut
+\c@lofdepth=\count312
+\c@lotdepth=\count313
+) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut
+\c@LWR@autoindex=\count314
+\c@LWR@autoglossary=\count315
+)
+Excluding 'warpprint' comment. Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+
+Straight input of comment_all.cut. (./comment_all.cut)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+
+Straight input of comment_all.cut. (./comment_all.cut)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut
+\c@LWR@externalfilecnt=\count316
+\LWR@singledollarwidth=\skip64
+\LWR@singledollarheight=\skip65
+\LWR@singledollardepth=\skip66
+\LWR@singledollarbox=\box55
+\c@LWR@nextequation=\count317
+) Excluding 'warpprint' comment.
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut
+\c@LWR@lateximagenumber=\count318
+\c@LWR@lateximagedepth=\count319
+\c@LWR@LIpage=\count320
+)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut
+\c@LWR@startingequation=\count321
+)
+Excluding 'warpprint' comment. Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Excluding 'warpprint' comment. Excluding 'warpprint' comment.
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Excluding 'warpprint' comment.
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut
+\LWR@minipagewidth=\skip67
+\LWR@minipageheight=\skip68
+\c@LWR@virtualpagedepth=\count322
+)
+Excluding 'warpprint' comment. Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut
+\c@LWR@minipage@depth=\count323
+\c@LWR@mpfootnote@store=\count324
+\LWR@atleastonept=\skip69
+)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut
+\LWR@fminipagebox=\box56
+) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+ Straight input of comment_all.cut.
+(./comment_all.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut
+\c@LWR@textcurrentfontdepth=\count325
+)
+Excluding 'warpprint' comment. Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut
+\LWR@tempwidth=\skip70
+\LWR@tempheight=\skip71
+\LWR@tempraise=\skip72
+)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpall' comment.
+\openout3 = `comment_all.cut'.
+
+
+Straight input of comment_all.cut. (./comment_all.cut)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut (/usr/share/texmf-dist/tex/latex/lwarp/lwarp-array.sty
+Package lwarp Info: Using package `array',
+(lwarp)             and adding lwarp modifications, including options,
+(lwarp)              on input line 23.
+Package: lwarp-array 2018/12/30
+
+(/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen152
+\ar@mcellbox=\box57
+\extrarowheight=\dimen153
+\NC@list=\toks25
+\extratabsurround=\skip73
+\backup@length=\skip74
+\ar@cellbox=\box58
+)))
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+(/usr/share/texmf-dist/tex/latex/lwarp/lwarp-textcomp.sty
+Package lwarp Info: Using package `textcomp',
+(lwarp)             and adding lwarp modifications, including options,
+(lwarp)              on input line 21.
+Package: lwarp-textcomp 2017/04/05
+)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Excluding 'warpprint' comment. Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut)
+Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+ Straight input of comment_html.cut.
+(./comment_html.cut) Including 'warpHTML' comment.
+\openout3 = `comment_html.cut'.
+
+
+Straight input of comment_html.cut. (./comment_html.cut))
+(/usr/share/texmf-dist/tex/latex/lwarp/lwarp-lipsum.sty
+Package lwarp Info: Using package `lipsum',
+(lwarp)             and adding lwarp modifications, including options,
+(lwarp)              on input line 18.
+Package: lwarp-lipsum 2021-03-03
+
+(/usr/share/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count326
+\l__lipsum_a_int=\count327
+\l__lipsum_b_int=\count328
+
+(/usr/share/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+
+Package lipsum Warning: Command '\SetLipsumParListItemEnd' deprecated.
+(lipsum)                See the lipsum documentation for help.
+
+) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2023/02/13 3.86 The Babel package
+\babel@savecnt=\count329
+\U@D=\dimen154
+\l@unhyphenated=\language3
+
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read4
+\bbl@dirlevel=\count330
+
+(/usr/share/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language 'Spanish' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 51.
+
+Package babel Info: Hyphen rules for 'spanish' set to \l@english
+(babel)             (\language0). Reported on input line 52.
+\es@quottoks=\toks26
+\es@quotdepth=\count331
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+)) (/usr/share/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex
+Package babel Info: Importing font and identification data for spanish
+(babel)             from babel-es.ini. Reported on input line 11.
+)
+(/usr/share/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
+\csq@reset=\count332
+\csq@gtype=\count333
+\csq@glevel=\count334
+\csq@qlevel=\count335
+\csq@maxlvl=\count336
+\csq@tshold=\count337
+\csq@ltx@everypar=\toks27
+
+(/usr/share/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/share/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+))
+(/usr/share/texmf-dist/tex/latex/lwarp/lwarp-graphicx.sty
+Package lwarp Info: Using package `graphicx',
+(lwarp)             and adding lwarp modifications, including options,
+(lwarp)              on input line 20.
+Package: lwarp-graphicx 2020/09/09
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/lwarp/lwarp-graphics.sty
+Package lwarp Info: Using package `graphics',
+(lwarp)             and adding lwarp modifications, including options,
+(lwarp)              on input line 20.
+Package: lwarp-graphics 2020/08/30
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\LWR@igwidth=\skip75
+\LWR@igheight=\skip76
+\LWR@imagesizebox=\box59
+)
+\Gin@req@height=\dimen155
+\Gin@req@width=\dimen156
+))
+(/usr/share/texmf-dist/tex/latex/lwarp/lwarp-backref.sty
+Package lwarp Info: Using package `backref',
+(lwarp)             and adding lwarp modifications, including options,
+(lwarp)              on input line 19.
+Package: lwarp-backref 2016/05/21
+
+(/usr/share/texmf-dist/tex/latex/hyperref/backref.sty
+Package: backref 2021/02/04 v1.41 Bibliographical back referencing
+
+(/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(/usr/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+
+(/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)))
+(/usr/share/texmf-dist/tex/latex/lwarp/lwarp-hyperref.sty
+Package lwarp Info: Using the lwarp HTML version of package `hyperref',
+(lwarp)             and discarding options except backref, pagebackref.
+(lwarp)             (Not using \ProvidesPackage, so that other packages
+(lwarp)             do not attempt to patch lwarp's version of `hyperref'.)
+(lwarp)              on input line 25.
+)
+\LWR@userspaperwidth=\skip77
+\LWR@userspaperheight=\skip78
+\LWR@usersmarginparwidth=\skip79
+\LWR@userstextwidth=\skip80
+\LWR@userstextheight=\skip81
+
+(/usr/share/texmf-dist/tex/latex/lwarp/lwarp-cleveref.sty
+Package lwarp Info: Using package `cleveref',
+(lwarp)             and adding lwarp modifications, including options,
+(lwarp)              on input line 18.
+Package: lwarp-cleveref 2018/03/27
+
+(/usr/share/texmf-dist/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'spanish'.
+ (./SAMPLE_html.aux
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+)
+\openout1 = `SAMPLE_html.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Info: Redefining \microtypecontext on input line 37.
+Package microtype Info: Applying patch `item' on input line 37.
+Package microtype Info: Applying patch `toc' on input line 37.
+Package microtype Info: Applying patch `eqnum' on input line 37.
+
+
+Package microtype Warning: Unable to apply patch `footnote' on input line 37.
+
+Package microtype Info: Applying patch `verbatim' on input line 37.
+Package microtype Info: Generating PDF output.
+Package microtype Info: No character protrusion.
+Package microtype Info: No font expansion.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: heightrounded 
+* h-part:(L,W,R)=(144.54pt, 867.24pt, 433.62pt)
+* v-part:(T,H,B)=(72.26999pt, 13586.76001pt, 72.26999pt)
+* \paperwidth=1445.4pt
+* \paperheight=13731.29999pt
+* \textwidth=1011.77557pt
+* \textheight=10985.0819pt
+* \oddsidemargin=72.27pt
+* \evensidemargin=361.35pt
+* \topmargin=-30.06749pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texmf-dist/tex/latex/lwarp/lwarp-geometry.sty
+Package lwarp Info: Replacing package `geometry' with the lwarp version,
+(lwarp)             and discarding options, on input line 20.
+Package: lwarp-geometry 2018/04/16
+)
+
+Package lwarp Info: Babel has been loaded. Lwarp also uses cleveref.
+(lwarp)             See the cleveref documentation regarding
+(lwarp)             babel support. Some languages are not supported.
+
+LaTeX Info: Redefining \. on input line 37.
+LaTeX Info: Redefining \% on input line 37.
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count338
+\scratchdimen=\dimen157
+\scratchbox=\box60
+\nofMPsegments=\count339
+\nofMParguments=\count340
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count341
+\MPscratchDim=\dimen158
+\MPnumerator=\count342
+\makeMPintoPDFobject=\count343
+\everyMPtoPDFconversion=\toks29
+) (/usr/share/texmf-dist/tex/latex/lwarp/lwarp-epstopdf-base.sty
+Package lwarp Info: Using package `epstopdf-base',
+(lwarp)             and adding lwarp modifications, including options,
+(lwarp)              on input line 18.
+Package: lwarp-epstopdf-base 2020-01-24
+
+(/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+\openout5 = `SAMPLE-images.txt'.
+
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 3
+7.
+
+(/usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+File: "lwarp_mathjax.txt"  (verbatim)
+LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 
+37.
+
+(/usr/share/texmf-dist/tex/latex/base/ts1cmtt.fd
+File: ts1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+---
+Package lwarp:
+Processing MathJax customizations for the first HTML page.
+Later HTML pages will take the same amount of time.
+If this takes too long, see the Lwarp manual regarding customizing MathJax.
+Done.
+---
+\openout6 = `SAMPLE_html.sidetoc'.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
+/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/cm-s
+uper/cm-super-ts1.enc}] (./SAMPLE_html.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (3.69897pt too wide) detected at line 5
+\T1/cmr/m/n/8 1.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 6
+\T1/cmr/m/n/8 1.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 7
+\T1/cmr/m/n/8 1.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 9
+\T1/cmr/m/n/8 2.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 10
+\T1/cmr/m/n/8 2.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 11
+\T1/cmr/m/n/8 2.3. 
+ []
+
+
+Overfull \hbox (10.30847pt too wide) detected at line 12
+\T1/cmr/m/n/8 2.3.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 14
+\T1/cmr/m/n/8 3.1. 
+ []
+
+
+Overfull \hbox (10.30847pt too wide) detected at line 15
+\T1/cmr/m/n/8 3.1.1. 
+ []
+
+)
+\tf@toc=\write7
+\openout7 = `SAMPLE_html.toc'.
+
+ [2]
+File: "lwarp_mathjax.txt"  (verbatim)
+ [3] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (3.69897pt too wide) detected at line 5
+\T1/cmr/m/n/8 1.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 6
+\T1/cmr/m/n/8 1.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 7
+\T1/cmr/m/n/8 1.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 9
+\T1/cmr/m/n/8 2.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 10
+\T1/cmr/m/n/8 2.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 11
+\T1/cmr/m/n/8 2.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 14
+\T1/cmr/m/n/8 3.1. 
+ []
+
+) [4]
+File: "lwarp_mathjax.txt"  (verbatim)
+ [5] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (3.69897pt too wide) detected at line 5
+\T1/cmr/m/n/8 1.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 6
+\T1/cmr/m/n/8 1.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 7
+\T1/cmr/m/n/8 1.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 9
+\T1/cmr/m/n/8 2.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 10
+\T1/cmr/m/n/8 2.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 11
+\T1/cmr/m/n/8 2.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 14
+\T1/cmr/m/n/8 3.1. 
+ []
+
+)
+
+Package lipsum Warning: Unknown language 'latin'. Hyphenation patterns for
+(lipsum)                'spanish' will be used instead.
+
+[6] [7]
+File: "lwarp_mathjax.txt"  (verbatim)
+ [8] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (3.69897pt too wide) detected at line 5
+\T1/cmr/m/n/8 1.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 6
+\T1/cmr/m/n/8 1.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 7
+\T1/cmr/m/n/8 1.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 9
+\T1/cmr/m/n/8 2.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 10
+\T1/cmr/m/n/8 2.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 11
+\T1/cmr/m/n/8 2.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 14
+\T1/cmr/m/n/8 3.1. 
+ []
+
+) [9] [10] [11] [12]
+File: "lwarp_mathjax.txt"  (verbatim)
+ [13] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (3.69897pt too wide) detected at line 5
+\T1/cmr/m/n/8 1.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 6
+\T1/cmr/m/n/8 1.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 7
+\T1/cmr/m/n/8 1.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 9
+\T1/cmr/m/n/8 2.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 10
+\T1/cmr/m/n/8 2.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 11
+\T1/cmr/m/n/8 2.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 14
+\T1/cmr/m/n/8 3.1. 
+ []
+
+) [14] [15]
+File: "lwarp_mathjax.txt"  (verbatim)
+ [16] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (3.69897pt too wide) detected at line 5
+\T1/cmr/m/n/8 1.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 6
+\T1/cmr/m/n/8 1.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 7
+\T1/cmr/m/n/8 1.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 9
+\T1/cmr/m/n/8 2.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 10
+\T1/cmr/m/n/8 2.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 11
+\T1/cmr/m/n/8 2.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 14
+\T1/cmr/m/n/8 3.1. 
+ []
+
+) [17]
+File: "lwarp_mathjax.txt"  (verbatim)
+ [18] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (3.69897pt too wide) detected at line 5
+\T1/cmr/m/n/8 1.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 6
+\T1/cmr/m/n/8 1.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 7
+\T1/cmr/m/n/8 1.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 9
+\T1/cmr/m/n/8 2.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 10
+\T1/cmr/m/n/8 2.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 11
+\T1/cmr/m/n/8 2.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 14
+\T1/cmr/m/n/8 3.1. 
+ []
+
+) [19] [20] [21]
+File: "lwarp_mathjax.txt"  (verbatim)
+ [22] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (3.69897pt too wide) detected at line 5
+\T1/cmr/m/n/8 1.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 6
+\T1/cmr/m/n/8 1.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 7
+\T1/cmr/m/n/8 1.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 9
+\T1/cmr/m/n/8 2.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 10
+\T1/cmr/m/n/8 2.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 11
+\T1/cmr/m/n/8 2.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 14
+\T1/cmr/m/n/8 3.1. 
+ []
+
+) [23]
+File: "lwarp_mathjax.txt"  (verbatim)
+ [24] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (3.69897pt too wide) detected at line 5
+\T1/cmr/m/n/8 1.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 6
+\T1/cmr/m/n/8 1.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 7
+\T1/cmr/m/n/8 1.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 9
+\T1/cmr/m/n/8 2.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 10
+\T1/cmr/m/n/8 2.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 11
+\T1/cmr/m/n/8 2.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 14
+\T1/cmr/m/n/8 3.1. 
+ []
+
+) [25] [26]
+File: "lwarp_mathjax.txt"  (verbatim)
+ [27] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (3.69897pt too wide) detected at line 5
+\T1/cmr/m/n/8 1.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 6
+\T1/cmr/m/n/8 1.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 7
+\T1/cmr/m/n/8 1.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 9
+\T1/cmr/m/n/8 2.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 10
+\T1/cmr/m/n/8 2.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 11
+\T1/cmr/m/n/8 2.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 14
+\T1/cmr/m/n/8 3.1. 
+ []
+
+) [28] [29] [30]
+File: "lwarp_mathjax.txt"  (verbatim)
+ [31] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (3.69897pt too wide) detected at line 5
+\T1/cmr/m/n/8 1.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 6
+\T1/cmr/m/n/8 1.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 7
+\T1/cmr/m/n/8 1.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 9
+\T1/cmr/m/n/8 2.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 10
+\T1/cmr/m/n/8 2.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 11
+\T1/cmr/m/n/8 2.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 14
+\T1/cmr/m/n/8 3.1. 
+ []
+
+) [32]
+File: "lwarp_mathjax.txt"  (verbatim)
+ [33] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (3.69897pt too wide) detected at line 5
+\T1/cmr/m/n/8 1.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 6
+\T1/cmr/m/n/8 1.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 7
+\T1/cmr/m/n/8 1.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 9
+\T1/cmr/m/n/8 2.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 10
+\T1/cmr/m/n/8 2.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 11
+\T1/cmr/m/n/8 2.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 14
+\T1/cmr/m/n/8 3.1. 
+ []
+
+) [34] (./SAMPLE_html.aux
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+) ) ) 
+Here is how much of TeX's memory you used:
+ 15821 strings out of 477985
+ 297385 string characters out of 5840058
+ 1918388 words of memory out of 5000000
+ 35381 multiletter control sequences out of 15000+600000
+ 515423 words of font info for 38 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 103i,5n,120p,1202b,939s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/shar
+e/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb></usr/share/texmf-dist/fo
+nts/type1/public/cm-super/sftt0800.pfb>
+Output written on SAMPLE_html.pdf (34 pages, 194199 bytes).
+PDF statistics:
+ 133 PDF objects out of 1000 (max. 8388607)
+ 89 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
