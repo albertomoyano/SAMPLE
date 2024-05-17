@@ -1,31 +1,31 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.4.18)  14 MAY 2024 09:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.5.15)  17 MAY 2024 18:39
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
 **SAMPLE_html.tex
 (./SAMPLE_html.tex
-LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-02-22> (./SAMPLE.tex
-(/usr/share/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2022/07/02 v1.4n Standard LaTeX document class
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(./SAMPLE.tex (/usr/share/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
 (/usr/share/texmf-dist/tex/latex/base/bk10.clo
-File: bk10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+File: bk10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count185
-\c@chapter=\count186
-\c@section=\count187
-\c@subsection=\count188
-\c@subsubsection=\count189
-\c@paragraph=\count190
-\c@subparagraph=\count191
-\c@figure=\count192
-\c@table=\count193
+\c@part=\count188
+\c@chapter=\count189
+\c@section=\count190
+\c@subsection=\count191
+\c@subsubsection=\count192
+\c@paragraph=\count193
+\c@subparagraph=\count194
+\c@figure=\count195
+\c@table=\count196
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
 (/usr/share/texmf-dist/tex/latex/lwarp/lwarp.sty
-Package: lwarp 2023/02/28 v0.911 Allows LaTeX to directly produce HTML5 output.
+Package: lwarp 2024/02/22 v0.916 Allows LaTeX to directly produce HTML5 output.
 
 
 (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
@@ -35,31 +35,34 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
 )
 (/usr/share/texmf-dist/tex/generic/ifptex/ifptex.sty
-Package: ifptex 2022/04/03 v2.2 pTeX checker
+Package: ifptex 2023/04/08 v2.2c pTeX checker
 )
 (/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count194
+\etb@tempcnta=\count197
+)
+(/usr/share/texmf-dist/tex/latex/verifycommand/verifycommand.sty
+Package: verifycommand 2024/01/11 v1.00 Verify definitions have not changed.
 )
 (/usr/share/texmf-dist/tex/latex/xpatch/xpatch.sty
 (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2023-02-22 L3 programming layer (loader) 
+Package: expl3 2024-02-20 L3 programming layer (loader) 
 
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count195
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count198
 \l__pdf_internal_box=\box51
 ))
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
 
 (/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2023-02-02 L3 Experimental document command parser
+Package: xparse 2024-02-18 L3 Experimental document command parser
 ))
 (/usr/share/texmf-dist/tex/latex/ifplatform/ifplatform.sty
 Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
 
 (/usr/share/texmf-dist/tex/latex/tools/shellesc.sty
-Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
 Package shellesc Info: Unrestricted shell escape enabled on input line 75.
 )
 (/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
@@ -70,7 +73,7 @@ Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 (/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
@@ -99,38 +102,38 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
 (/usr/share/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks16
-\inpenc@posthook=\toks17
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
 )
 (/usr/share/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty
 Package: newunicodechar 2018/04/08 v1.2 Defining Unicode characters
 )
 
-Package newunicodechar Warning: Redefining Unicode character on input line 859.
+Package newunicodechar Warning: Redefining Unicode character on input line 867.
 
 
 
-Package newunicodechar Warning: Redefining Unicode character on input line 860.
+Package newunicodechar Warning: Redefining Unicode character on input line 868.
 
 
 
-Package newunicodechar Warning: Redefining Unicode character on input line 861.
+Package newunicodechar Warning: Redefining Unicode character on input line 869.
 
 
 
-Package newunicodechar Warning: Redefining Unicode character on input line 862.
+Package newunicodechar Warning: Redefining Unicode character on input line 870.
 
 
 
-Package newunicodechar Warning: Redefining Unicode character on input line 863.
+Package newunicodechar Warning: Redefining Unicode character on input line 871.
 
 
 
-Package newunicodechar Warning: Redefining Unicode character on input line 864.
+Package newunicodechar Warning: Redefining Unicode character on input line 872.
 
 
 
-Package newunicodechar Warning: Redefining Unicode character on input line 865.
+Package newunicodechar Warning: Redefining Unicode character on input line 873.
 
 
 (/usr/share/texmf-dist/tex/latex/upquote/upquote.sty
@@ -143,21 +146,21 @@ Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 \LWR@templengthone=\skip50
 \LWR@templengthtwo=\skip51
 \LWR@templengththree=\skip52
-\c@LWR@tempcountone=\count196
-\c@LWR@texboxdepth=\count197
+\c@LWR@tempcountone=\count199
+\c@LWR@texboxdepth=\count266
 
 (/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 
 (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks18
+\KV@toks@=\toks19
 )
 (/usr/share/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))
-Package lwarp Info: Using option 'warpHTML' on input line 1186.
-Package lwarp Info: Using option 'mathjax' on input line 1186.
+Package lwarp Info: Using option 'warpHTML' on input line 1198.
+Package lwarp Info: Using option 'mathjax' on input line 1198.
 
 (/usr/share/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write3
@@ -182,17 +185,17 @@ Lwarp: Excluding comment 'LWRcreatelwarpmk' Including 'warpHTML' comment.
 Straight input of comment_html.cut. (./comment_html.cut
 (/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
-\MT@toks=\toks19
+\MT@toks=\toks20
 \MT@tempbox=\box52
-\MT@count=\count198
+\MT@count=\count267
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
 LaTeX Info: Redefining \leftprotrusion on input line 1060.
-\MT@prot@toks=\toks20
+\MT@prot@toks=\toks21
 LaTeX Info: Redefining \rightprotrusion on input line 1078.
 LaTeX Info: Redefining \textls on input line 1368.
 \MT@outer@kern=\dimen141
 LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
-\MT@listname@count=\count199
+\MT@listname@count=\count268
 
 (/usr/share/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
@@ -216,9 +219,9 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count266
-\Gm@cntv=\count267
-\c@Gm@tempcnt=\count268
+\Gm@cnth=\count269
+\Gm@cntv=\count270
+\c@Gm@tempcnt=\count271
 \Gm@bindingoffset=\dimen142
 \Gm@wd@mp=\dimen143
 \Gm@odd@mp=\dimen144
@@ -227,23 +230,23 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen147
 \Gm@layouthoffset=\dimen148
 \Gm@layoutvoffset=\dimen149
-\Gm@dimlist=\toks21
+\Gm@dimlist=\toks22
 ))
 Including 'warpall' comment.
 \openout3 = `comment_all.cut'.
 
  Straight input of comment_all.cut.
 (./comment_all.cut (/usr/share/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count269
-\calc@Bcount=\count270
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count272
+\calc@Bcount=\count273
 \calc@Adimen=\dimen150
 \calc@Bdimen=\dimen151
 \calc@Askip=\skip54
 \calc@Bskip=\skip55
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count271
+\calc@Ccount=\count274
 \calc@Cskip=\skip56
 ))
 Including 'warpHTML' comment.
@@ -273,17 +276,17 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
 ))
 (/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
-Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks22
-\verbatim@line=\toks23
+Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks23
+\verbatim@line=\toks24
 \verbatim@in@stream=\read2
 )
 (/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
 (/usr/share/texmf-dist/tex/latex/newfloat/newfloat.sty
-Package: newfloat 2019/09/02 v1.1l Defining new floating environments (AR)
-Package newfloat Info: Document class `book' detected.
+Package: newfloat 2023/10/01 v1.2 Defining new floating environments (AR)
+Package newfloat Info: Document class `book' detected (original).
 ))
 Including 'warpall' comment.
 \openout3 = `comment_all.cut'.
@@ -291,10 +294,10 @@ Including 'warpall' comment.
  Straight input of comment_all.cut.
 (./comment_all.cut (/usr/share/texmf-dist/tex/generic/xstring/xstring.sty
 (/usr/share/texmf-dist/tex/generic/xstring/xstring.tex
-\integerpart=\count272
-\decimalpart=\count273
+\xs_counta=\count275
+\xs_countb=\count276
 )
-Package: xstring 2023/01/14 v1.85 String manipulations (CT)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
 )
 (/usr/share/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
@@ -302,7 +305,7 @@ Package: environ 2014/05/04 v0.3 A new way to define environments
 (/usr/share/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
-\@envbody=\toks24
+\@envbody=\toks25
 ))
 Including 'warpHTML' comment.
 \openout3 = `comment_html.cut'.
@@ -420,9 +423,9 @@ Including 'warpall' comment.
 
 
 Straight input of comment_html.cut. (./comment_html.cut
-\c@LWR@HTMLpagenum=\count274
-\c@LWR@htmlseqfilenumber=\count275
-\c@LWR@htmlfilenumber=\count276
+\c@LWR@HTMLpagenum=\count277
+\c@LWR@htmlseqfilenumber=\count278
+\c@LWR@htmlfilenumber=\count279
 )
 Including 'warpall' comment.
 \openout3 = `comment_all.cut'.
@@ -511,7 +514,7 @@ Including 'warpHTML' comment.
 
 
 Straight input of comment_html.cut. (./comment_html.cut
-\c@LWR@spandepth=\count277
+\c@LWR@spandepth=\count280
 )
 Including 'warpHTML' comment.
 \openout3 = `comment_html.cut'.
@@ -550,8 +553,8 @@ Including 'warpall' comment.
 
 
 Straight input of comment_all.cut. (./comment_all.cut
-\c@FootnoteDepth=\count278
-\c@footnoteReset=\count279
+\c@FootnoteDepth=\count281
+\c@footnoteReset=\count282
 )
 Including 'warpHTML' comment.
 \openout3 = `comment_html.cut'.
@@ -566,15 +569,15 @@ Including 'warpHTML' comment.
 
 Straight input of comment_html.cut. (./comment_html.cut)
 Excluding 'warpprint' comment.
-\c@LWR@currentautosecpage=\count280
-\c@LWR@currentautosecfloatpage=\count281
-\c@LWR@previousautopagelabel=\count282
+\c@LWR@currentautosecpage=\count283
+\c@LWR@currentautosecfloatpage=\count284
+\c@LWR@previousautopagelabel=\count285
  Including 'warpall' comment.
 \openout3 = `comment_all.cut'.
 
 
 Straight input of comment_all.cut. (./comment_all.cut
-\c@FileDepth=\count283
+\c@FileDepth=\count286
 )
 Including 'warpHTML' comment.
 \openout3 = `comment_html.cut'.
@@ -609,7 +612,7 @@ Including 'warpHTML' comment.
 
  Straight input of comment_html.cut.
 (./comment_html.cut
-\c@LWR@prevFileDepth=\count284
+\c@LWR@prevFileDepth=\count287
 ) Including 'warpall' comment.
 \openout3 = `comment_all.cut'.
 
@@ -716,23 +719,23 @@ Including 'warpHTML' comment.
 
 
 Straight input of comment_html.cut. (./comment_html.cut
-\c@LWR@hlines=\count285
-\c@LWR@hdashedlines=\count286
-\c@LWR@tabulardepth=\count287
-\c@LWR@tabularpardepth=\count288
-\c@LWR@tablecolspecwidth=\count289
-\c@LWR@tablecolspecindex=\count290
-\c@LWR@tableLaTeXcolindex=\count291
-\c@LWR@tabletotalLaTeXcols=\count292
-\c@LWR@tabletotalLaTeXcolsnext=\count293
-\c@LWR@cellcolordepth=\count294
-\c@LWR@tablemulticolswidth=\count295
-\c@LWR@tablemulticolspos=\count296
-\c@LWR@mcolvertbarsl=\count297
-\c@LWR@mcolvertbarsr=\count298
-\c@LWR@mcolvertbarsldash=\count299
-\c@LWR@mcolvertbarsrdash=\count300
-\c@LWR@midrulecounter=\count301
+\c@LWR@hlines=\count288
+\c@LWR@hdashedlines=\count289
+\c@LWR@tabulardepth=\count290
+\c@LWR@tabularpardepth=\count291
+\c@LWR@tablecolspecwidth=\count292
+\c@LWR@tablecolspecindex=\count293
+\c@LWR@tableLaTeXcolindex=\count294
+\c@LWR@tabletotalLaTeXcols=\count295
+\c@LWR@tabletotalLaTeXcolsnext=\count296
+\c@LWR@cellcolordepth=\count297
+\c@LWR@tablemulticolswidth=\count298
+\c@LWR@tablemulticolspos=\count299
+\c@LWR@mcolvertbarsl=\count300
+\c@LWR@mcolvertbarsr=\count301
+\c@LWR@mcolvertbarsldash=\count302
+\c@LWR@mcolvertbarsrdash=\count303
+\c@LWR@midrulecounter=\count304
 )
 Including 'warpHTML' comment.
 \openout3 = `comment_html.cut'.
@@ -744,15 +747,15 @@ Including 'warpHTML' comment.
 
  Straight input of comment_html.cut.
 (./comment_html.cut
-\rownum=\count302
+\rownum=\count305
 \LWR@heavyrulewidth=\skip60
 \LWR@lightrulewidth=\skip61
 \LWR@cmidrulewidth=\skip62
 \LWR@thiscmidrulewidth=\skip63
-\c@LWR@lastmulticolumn=\count303
-\c@LWR@tabhtmlcolindex=\count304
-\c@LWR@tabhtmlcolend=\count305
-\c@LWR@tabhtmlcoltotal=\count306
+\c@LWR@lastmulticolumn=\count306
+\c@LWR@tabhtmlcolindex=\count307
+\c@LWR@tabhtmlcolend=\count308
+\c@LWR@tabhtmlcoltotal=\count309
 ) Including 'warpHTML' comment.
 \openout3 = `comment_html.cut'.
 
@@ -804,10 +807,10 @@ Including 'warpHTML' comment.
 
  Straight input of comment_html.cut.
 (./comment_html.cut
-\c@LWR@thisautoid=\count307
-\c@LWR@thisautoidWP=\count308
-\c@LWR@nextautoid=\count309
-\c@LWR@nextautopage=\count310
+\c@LWR@thisautoid=\count310
+\c@LWR@thisautoidWP=\count311
+\c@LWR@nextautoid=\count312
+\c@LWR@nextautopage=\count313
  (/usr/share/texmf-dist/tex/latex/capt-of/capt-of.sty
 Package: capt-of 2009/12/29 v0.2 standard captions outside of floats
 ))
@@ -820,22 +823,22 @@ Including 'warpHTML' comment.
 
 
 Straight input of comment_all.cut. (./comment_all.cut
-\c@SideTOCDepth=\count311
+\c@SideTOCDepth=\count314
 )
 Including 'warpHTML' comment.
 \openout3 = `comment_html.cut'.
 
  Straight input of comment_html.cut.
 (./comment_html.cut
-\c@lofdepth=\count312
-\c@lotdepth=\count313
+\c@lofdepth=\count315
+\c@lotdepth=\count316
 ) Including 'warpHTML' comment.
 \openout3 = `comment_html.cut'.
 
 
 Straight input of comment_html.cut. (./comment_html.cut
-\c@LWR@autoindex=\count314
-\c@LWR@autoglossary=\count315
+\c@LWR@autoindex=\count317
+\c@LWR@autoglossary=\count318
 )
 Excluding 'warpprint' comment. Including 'warpall' comment.
 \openout3 = `comment_all.cut'.
@@ -865,12 +868,12 @@ Including 'warpHTML' comment.
 
  Straight input of comment_html.cut.
 (./comment_html.cut
-\c@LWR@externalfilecnt=\count316
+\c@LWR@externalfilecnt=\count319
 \LWR@singledollarwidth=\skip64
 \LWR@singledollarheight=\skip65
 \LWR@singledollardepth=\skip66
 \LWR@singledollarbox=\box55
-\c@LWR@nextequation=\count317
+\c@LWR@nextequation=\count320
 ) Excluding 'warpprint' comment.
 Including 'warpHTML' comment.
 \openout3 = `comment_html.cut'.
@@ -881,9 +884,9 @@ Including 'warpHTML' comment.
 
 
 Straight input of comment_html.cut. (./comment_html.cut
-\c@LWR@lateximagenumber=\count318
-\c@LWR@lateximagedepth=\count319
-\c@LWR@LIpage=\count320
+\c@LWR@lateximagenumber=\count321
+\c@LWR@lateximagedepth=\count322
+\c@LWR@LIpage=\count323
 )
 Including 'warpall' comment.
 \openout3 = `comment_all.cut'.
@@ -894,7 +897,7 @@ Including 'warpall' comment.
 
 
 Straight input of comment_html.cut. (./comment_html.cut
-\c@LWR@startingequation=\count321
+\c@LWR@startingequation=\count324
 )
 Excluding 'warpprint' comment. Including 'warpHTML' comment.
 \openout3 = `comment_html.cut'.
@@ -936,15 +939,15 @@ Including 'warpHTML' comment.
 Straight input of comment_html.cut. (./comment_html.cut
 \LWR@minipagewidth=\skip67
 \LWR@minipageheight=\skip68
-\c@LWR@virtualpagedepth=\count322
+\c@LWR@virtualpagedepth=\count325
 )
 Excluding 'warpprint' comment. Including 'warpHTML' comment.
 \openout3 = `comment_html.cut'.
 
 
 Straight input of comment_html.cut. (./comment_html.cut
-\c@LWR@minipage@depth=\count323
-\c@LWR@mpfootnote@store=\count324
+\c@LWR@minipage@depth=\count326
+\c@LWR@mpfootnote@store=\count327
 \LWR@atleastonept=\skip69
 )
 Including 'warpall' comment.
@@ -976,7 +979,7 @@ Including 'warpall' comment.
 
 
 Straight input of comment_html.cut. (./comment_html.cut
-\c@LWR@textcurrentfontdepth=\count325
+\c@LWR@textcurrentfontdepth=\count328
 )
 Excluding 'warpprint' comment. Including 'warpHTML' comment.
 \openout3 = `comment_html.cut'.
@@ -1016,11 +1019,11 @@ Package lwarp Info: Using package `array',
 Package: lwarp-array 2018/12/30
 
 (/usr/share/texmf-dist/tex/latex/tools/array.sty
-Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen152
 \ar@mcellbox=\box57
 \extrarowheight=\dimen153
-\NC@list=\toks25
+\NC@list=\toks26
 \extratabsurround=\skip73
 \backup@length=\skip74
 \ar@cellbox=\box58
@@ -1080,12 +1083,12 @@ Package: lwarp-lipsum 2021-03-03
 
 (/usr/share/texmf-dist/tex/latex/lipsum/lipsum.sty
 (/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2024-02-18 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count326
-\l__lipsum_a_int=\count327
-\l__lipsum_b_int=\count328
+\g__lipsum_par_int=\count329
+\l__lipsum_a_int=\count330
+\l__lipsum_b_int=\count331
 
 (/usr/share/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
 
@@ -1093,14 +1096,14 @@ Package lipsum Warning: Command '\SetLipsumParListItemEnd' deprecated.
 (lipsum)                See the lipsum documentation for help.
 
 ) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2023/02/13 3.86 The Babel package
-\babel@savecnt=\count329
+Package: babel 2024/02/07 v24.2 The Babel package
+\babel@savecnt=\count332
 \U@D=\dimen154
-\l@unhyphenated=\language3
+\l@unhyphenated=\language5
 
 (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read4
-\bbl@dirlevel=\count330
+\bbl@dirlevel=\count333
 
 (/usr/share/texmf-dist/tex/generic/babel-spanish/spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
@@ -1114,8 +1117,8 @@ Package babel Warning: No hyphenation patterns were preloaded for
 
 Package babel Info: Hyphen rules for 'spanish' set to \l@english
 (babel)             (\language0). Reported on input line 52.
-\es@quottoks=\toks26
-\es@quotdepth=\count331
+\es@quottoks=\toks27
+\es@quotdepth=\count334
 Package babel Info: Making " an active character on input line 570.
 Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
@@ -1126,13 +1129,13 @@ Package babel Info: Importing font and identification data for spanish
 )
 (/usr/share/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
-\csq@reset=\count332
-\csq@gtype=\count333
-\csq@glevel=\count334
-\csq@qlevel=\count335
-\csq@maxlvl=\count336
-\csq@tshold=\count337
-\csq@ltx@everypar=\toks27
+\csq@reset=\count335
+\csq@gtype=\count336
+\csq@glevel=\count337
+\csq@qlevel=\count338
+\csq@maxlvl=\count339
+\csq@tshold=\count340
+\csq@ltx@everypar=\toks28
 
 (/usr/share/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
@@ -1186,7 +1189,7 @@ Package lwarp Info: Using package `backref',
 Package: lwarp-backref 2016/05/21
 
 (/usr/share/texmf-dist/tex/latex/hyperref/backref.sty
-Package: backref 2021/02/04 v1.41 Bibliographical back referencing
+Package: backref 2023-11-26 v1.44 Bibliographical back referencing
 
 (/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
@@ -1319,17 +1322,17 @@ LaTeX Info: Redefining \. on input line 37.
 LaTeX Info: Redefining \% on input line 37.
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count338
+\scratchcounter=\count341
 \scratchdimen=\dimen157
 \scratchbox=\box60
-\nofMPsegments=\count339
-\nofMParguments=\count340
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count341
+\nofMPsegments=\count342
+\nofMParguments=\count343
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count344
 \MPscratchDim=\dimen158
-\MPnumerator=\count342
-\makeMPintoPDFobject=\count343
-\everyMPtoPDFconversion=\toks29
+\MPnumerator=\count345
+\makeMPintoPDFobject=\count346
+\everyMPtoPDFconversion=\toks30
 ) (/usr/share/texmf-dist/tex/latex/lwarp/lwarp-epstopdf-base.sty
 Package lwarp Info: Using package `epstopdf-base',
 (lwarp)             and adding lwarp modifications, including options,
@@ -1351,14 +1354,14 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 3
 7.
 
 (/usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 File: "lwarp_mathjax.txt"  (verbatim)
 LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 
 37.
 
 (/usr/share/texmf-dist/tex/latex/base/ts1cmtt.fd
-File: ts1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+File: ts1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 ---
 Package lwarp:
@@ -1873,19 +1876,24 @@ Overfull \hbox (3.69897pt too wide) detected at line 14
 ) [34] (./SAMPLE_html.aux
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
-) ) ) 
+)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2020/03/25>
+ ***********
+ ) ) 
 Here is how much of TeX's memory you used:
- 15821 strings out of 477985
- 297385 string characters out of 5840058
- 1918388 words of memory out of 5000000
- 35381 multiletter control sequences out of 15000+600000
- 515423 words of font info for 38 fonts, out of 8000000 for 9000
+ 15811 strings out of 476076
+ 293880 string characters out of 5793775
+ 1993187 words of memory out of 5000000
+ 37300 multiletter control sequences out of 15000+600000
+ 561205 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 103i,5n,120p,1202b,939s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/shar
-e/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb></usr/share/texmf-dist/fo
-nts/type1/public/cm-super/sftt0800.pfb>
-Output written on SAMPLE_html.pdf (34 pages, 194199 bytes).
+ 103i,5n,120p,1202b,935s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share
+/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb></usr/share/texmf-dist/fon
+ts/type1/public/cm-super/sftt0800.pfb>
+Output written on SAMPLE_html.pdf (34 pages, 195226 bytes).
 PDF statistics:
  133 PDF objects out of 1000 (max. 8388607)
  89 compressed objects within 1 object stream
