@@ -11,7 +11,7 @@ latexmk]{lwarp}
 \usepackage{csquotes}
 \usepackage{graphicx}
 \usepackage[backend=biber,backref=true,indexing=cite,citestyle=authoryear,style=authoryear]{biblatex}
-\addbibresource{SAMPLE.bib}
+\addbibresource{./files/SAMPLE.bib}
 %\usepackage[xindy,toc,numberedsection=nolabel]{glossaries}
 \usepackage[xindy,acronym,sanitizesort,toc=true,nonumberlist]{glossaries}
 \makenoidxglossaries
@@ -34,8 +34,8 @@ latexmk]{lwarp}
 %comienza preámbulo dinámico desde la base de datos
 \boolfalse{FileSectionNames}% If false, numbers the files.
 \renewcommand{\linkhomename}{Inicio}
-\renewcommand{\linkpreviousname}{Ant.}
-\renewcommand{\linknextname}{Sig.}
+\renewcommand{\linkpreviousname}{Anterior}
+\renewcommand{\linknextname}{Siguiente}
 \renewcommand{\sidetocname}{Sumario}
 \setcounter{tocdepth}{2}% Include subsections in the \TOC.
 \setcounter{secnumdepth}{2}% Number down to subsections.
@@ -47,10 +47,10 @@ latexmk]{lwarp}
 \HTMLAuthor{Alberto Moyano}% Sets the HTML meta author tag.
 \HTMLLanguage{es-ES}% Sets the HTML meta language.
 \HTMLDescription{Cada página de salida HTML debe tener su propia meta descripción HTML, que usualmente aparece en los resultados de búsqueda en la web.}% Generalmente, está limitada a alrededor de 150 caracteres de longitud y no debe incluir el carácter de comillas dobles ASCII.}% Sets the HTML meta description.
-\HTMLFirstPageTop{\includegraphics[width=5cm]{cover.png}}
+\HTMLFirstPageTop{\includegraphics[width=5cm]{./media/cover.png}}
 %\HTMLPageTop{Después de parir}
 \HTMLFirstPageBottom{Información de contacto y legales (\url{https://www.edicionesimagomundi.com/})}
-\HTMLPageBottom{\LinkPrevious | \LinkHome | \LinkNext}
+\HTMLPageBottom{\LinkPrevious | \LinkNext}
 \HTMLKeywords{clave1,clave2,clave3}
 \HTMLAddMeta{book-title}{Después de parir}
 \HTMLAddMeta{subtitle}{Que dolor}
@@ -67,7 +67,7 @@ latexmk]{lwarp}
 \HTMLAddMeta{license-text}{Creative Commons Attribution 4.0 International License}
 \HTMLAddMeta{funding-source}{Fuente de financiamiento: National Science Foundation}
 \HTMLAddMeta{abstract}{Cada página de salida HTML debe tener su propia meta descripción HTML, que usualmente aparece en los resultados de búsqueda en la web. Generalmente, está limitada a alrededor de 150 caracteres de longitud y no debe incluir el carácter de comillas dobles ASCII.}
-\CSSFilename{lwarp_custom.css}
+\CSSFilename{imago_custom.css}
 
 \title{Después de parir}
 \date{\today}
@@ -110,8 +110,8 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibu
 
 \begin{figure}[!ht]
 	\centering
-	\includegraphics[width=\linewidth]{imagen1.jpg}
-	\caption{Este es el epígrafe de la figura a color.}\label{figura1}
+	\includegraphics[width=\linewidth]{./media/bn-imagen1.png}
+	\caption{Este es el epígrafe de la figura.}\label{figura1}
 \end{figure}
 
 \section{Title section}
@@ -149,7 +149,7 @@ Como vemos en la figura \ref{figura1}, lorem ipsum dolor sit amet.\footnote{\lip
 
 \lipsum[1]
 
-Como vemos en la figura \ref{figura1}, lorem ipsum dolor sit amet.\footnote{\lipsum[1]}
+Como vemos en la figura \ref{figura1}, lorem ipsum dolor sit amet \parencite{@3159-FUNES2006}.\footnote{\lipsum[1]}
 
 \lipsum[1]
 
