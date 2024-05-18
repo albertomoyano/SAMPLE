@@ -11,9 +11,10 @@ latexmk]{lwarp}
 \usepackage{graphicx}
 \usepackage[backend=biber,backref=true,indexing=cite,citestyle=authoryear,style=authoryear]{biblatex}
 \addbibresource{SAMPLE.bib}
-
 \usepackage{hyperref}
+% termina preámbulo predefinido
 
+%comienza preámbulo dinámico desde la base de datos
 \boolfalse{FileSectionNames}% If false, numbers the files.
 \renewcommand{\linkhomename}{Inicio}
 \renewcommand{\linkpreviousname}{Anterior}
@@ -28,13 +29,16 @@ latexmk]{lwarp}
 \HTMLTitle{Después de parir}% Overrides \title for the web page.
 \HTMLAuthor{Alberto Moyano}% Sets the HTML meta author tag.
 \HTMLLanguage{es-ES}% Sets the HTML meta language.
-\HTMLDescription{Lectura de notas}% Sets the HTML meta description.
+\HTMLDescription{Cada página de salida HTML debe tener su propia meta descripción HTML, que usualmente aparece en los resultados de búsqueda en la web.}% Generalmente, está limitada a alrededor de 150 caracteres de longitud y no debe incluir el carácter de comillas dobles ASCII.}% Sets the HTML meta description.
 \HTMLFirstPageTop{\includegraphics[width=5cm]{cover.png}}
 %\HTMLPageTop{Después de parir}
 \HTMLPageBottom{Información de contacto y legales (\url{https://www.edicionesimagomundi.com/})}
+\HTMLKeywords{clave1,clave2,clave3}
+\HTMLAddMeta{publisher} {Ediciones Imago Mundi}
+\HTMLAddMeta{country} {Buenos Aires}
 \CSSFilename{lwarp_custom.css}
 
-\title{Después de parir} % One line only
+\title{Después de parir}
 \date{\today}
 \begin{document}
 \frontmatter

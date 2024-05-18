@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber SAMPLE"] 1715997724.62737 "SAMPLE.bcf" "SAMPLE.bbl" "SAMPLE" 1715997730.16695 0
+["biber SAMPLE"] 1716000487.37064 "SAMPLE.bcf" "SAMPLE.bbl" "SAMPLE" 1716000492.8861 0
   "SAMPLE.bcf" 0 -1 0 "lualatex"
   "SAMPLE.bib" 1715991132.0846 816 416ad7e0380b0176225b000e2d80c7cd ""
   (generated)
   "SAMPLE.bbl"
   "SAMPLE.blg"
   (rewritten before read)
-["lualatex"] 1715997727.85724 "SAMPLE.tex" "SAMPLE.pdf" "SAMPLE" 1715997730.16703 2
+["lualatex"] 1716000490.57787 "SAMPLE.tex" "SAMPLE.pdf" "SAMPLE" 1716000492.88617 2
   "/etc/texmf/tex/generic/config/language.dat" 1713199481 2942 33732383b59593f7fe81657e5231e22f ""
   "/home/alberto/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1715722353.86597 128397 09706dd1aa1b191c8da1a041be3309e0 ""
   "/home/alberto/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc" 1715996650.60526 136299 b05cdd5c99ab7a3edca29bdcc32d4a7d ""
@@ -182,22 +182,22 @@
   "/usr/share/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1713199481 13565 50482dad4c221a79dbdbb982122baf8c ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1715764738.60729 5467607 1f3b9843102088c2a7136e28f005c5e4 ""
   "/var/lib/texmf/web2c/luahbtex/lualatex.fmt" 1715764715 12261957 499a296bf98919716c034d58a1230531 ""
-  "SAMPLE.aux" 1715997730.06564 3043 11c2469eb98035a3d87bdec5efc6e332 "lualatex"
+  "SAMPLE.aux" 1716000492.77209 3043 11c2469eb98035a3d87bdec5efc6e332 "lualatex"
   "SAMPLE.bbl" 0 -1 0 "biber SAMPLE"
-  "SAMPLE.out" 1715997730.06564 1580 bbb1d43d6eb5421ca1cd8305c19e22ab "lualatex"
-  "SAMPLE.tex" 1715997702.42908 5604 cc84c039e57c77723dd8641302f9e293 ""
-  "SAMPLE.toc" 1715997729.84898 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
-  "comment_all.cut" 1715997728.47232 1113 479ee4505f26ae28baecaa6f7e99e480 "lualatex"
-  "comment_print.cut" 1715997728.47232 60 6e926f6547a5a824dc09ccb66b1e3506 "lualatex"
-  "comment_writeconf.cut" 1715997728.39898 9875 12654d04340a55d2a37e1c4ddaa2b1c1 "lualatex"
+  "SAMPLE.out" 1716000492.77209 1580 bbb1d43d6eb5421ca1cd8305c19e22ab "lualatex"
+  "SAMPLE.tex" 1716000469.30219 6046 d7cd7e8d09d56d7f392b86b47bf685f3 ""
+  "SAMPLE.toc" 1716000492.56209 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+  "comment_all.cut" 1716000491.19876 1113 479ee4505f26ae28baecaa6f7e99e480 "lualatex"
+  "comment_print.cut" 1716000491.2021 60 6e926f6547a5a824dc09ccb66b1e3506 "lualatex"
+  "comment_writeconf.cut" 1716000491.12876 9875 12654d04340a55d2a37e1c4ddaa2b1c1 "lualatex"
   "imagen1.jpg" 1715449895.32843 83870 cb6ccfb5178747ff938d22eb40e6f576 ""
-  "lwarp.css" 1715997728.38565 37958 1c62491f93b7ac91858503a9c772ac2c "lualatex"
-  "lwarp.ist" 1715997728.39565 417 dae8b5436a44fecbb3be171649bb6543 "lualatex"
-  "lwarp.xdy" 1715997728.39565 836 0ad01bdb1a17ae951026162c2777b363 "lualatex"
-  "lwarp_formal.css" 1715997728.39232 5054 c2bd5c6a0e1c20d4f86a7b917799045c "lualatex"
-  "lwarp_mathjax.txt" 1715997728.40232 9803 b9fcb849e1f4c755e7b9e9a228a7c1d3 "lualatex"
-  "lwarp_sagebrush.css" 1715997728.38898 5753 db685620b42b21c03657cd4a46db3b72 "lualatex"
-  "sample_project.css" 1715997728.39232 350 d7e55326cb5cb83c8816f99a6f4e7c30 "lualatex"
+  "lwarp.css" 1716000491.11543 37958 1c62491f93b7ac91858503a9c772ac2c "lualatex"
+  "lwarp.ist" 1716000491.12543 417 dae8b5436a44fecbb3be171649bb6543 "lualatex"
+  "lwarp.xdy" 1716000491.12543 836 0ad01bdb1a17ae951026162c2777b363 "lualatex"
+  "lwarp_formal.css" 1716000491.1221 5054 c2bd5c6a0e1c20d4f86a7b917799045c "lualatex"
+  "lwarp_mathjax.txt" 1716000491.1321 9803 b9fcb849e1f4c755e7b9e9a228a7c1d3 "lualatex"
+  "lwarp_sagebrush.css" 1716000491.11876 5753 db685620b42b21c03657cd4a46db3b72 "lualatex"
+  "sample_project.css" 1716000491.1221 350 d7e55326cb5cb83c8816f99a6f4e7c30 "lualatex"
   (generated)
   "SAMPLE.aux"
   "SAMPLE.bcf"
