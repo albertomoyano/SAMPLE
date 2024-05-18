@@ -1,14 +1,14 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'SAMPLE.blg'
-[56] biber:340> INFO - === sáb may 18, 2024, 10:00:20
-[68] Biber.pm:419> INFO - Reading 'SAMPLE.bcf'
-[115] Biber.pm:979> INFO - Found 2 citekeys in bib section 0
-[128] Biber.pm:4419> INFO - Processing section 0
-[135] Biber.pm:4610> INFO - Looking for bibtex file 'SAMPLE.bib' for section 0
-[136] bibtex.pm:1713> INFO - LaTeX decoding ...
-[139] bibtex.pm:1519> INFO - Found BibTeX data source 'SAMPLE.bib'
-[169] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[169] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[169] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
-[171] bbl.pm:660> INFO - Writing 'SAMPLE.bbl' with encoding 'UTF-8'
-[172] bbl.pm:763> INFO - Output to SAMPLE.bbl
+[55] biber:340> INFO - === sáb may 18, 2024, 14:21:31
+[65] Biber.pm:419> INFO - Reading 'SAMPLE.bcf'
+[112] Biber.pm:979> INFO - Found 2 citekeys in bib section 0
+[125] Biber.pm:4419> INFO - Processing section 0
+[132] Biber.pm:4610> INFO - Looking for bibtex file 'SAMPLE.bib' for section 0
+[132] bibtex.pm:1713> INFO - LaTeX decoding ...
+[135] bibtex.pm:1519> INFO - Found BibTeX data source 'SAMPLE.bib'
+[164] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[164] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[164] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[166] bbl.pm:660> INFO - Writing 'SAMPLE.bbl' with encoding 'UTF-8'
+[167] bbl.pm:763> INFO - Output to SAMPLE.bbl

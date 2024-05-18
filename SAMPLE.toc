@@ -13,6 +13,7 @@
 \contentsline {chapter}{\numberline {3}and next meeting}{9}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Title section}{9}{section.3.1}%
 \contentsline {subsection}{\numberline {3.1.1}Title section}{9}{subsection.3.1.1}%
-\contentsline {chapter}{Referencias bibliográficas}{11}{chapter*.4}%
-\contentsline {chapter}{Legales}{13}{chapter*.5}%
-\contentsline {chapter}{Colofón}{15}{chapter*.6}%
+\contentsline {chapter}{Glosario de términos}{11}{section*.4}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{13}{chapter*.6}%
+\contentsline {chapter}{Legales}{15}{chapter*.7}%
+\contentsline {chapter}{Colofón}{17}{chapter*.8}%

@@ -4,8 +4,6 @@ HomeHTMLFilename=index,% Filename of the homepage.
 HTMLFilename={node-},% Filename prefix of other pages.
 mathjax,%Use MathJax to display math.
 xindy,
-xindyLanguage=spanish,
-xindyCodepage=utf8,
 latexmk]{lwarp}
 \usepackage{lipsum}
 
@@ -14,14 +12,30 @@ latexmk]{lwarp}
 \usepackage{graphicx}
 \usepackage[backend=biber,backref=true,indexing=cite,citestyle=authoryear,style=authoryear]{biblatex}
 \addbibresource{SAMPLE.bib}
+%\usepackage[xindy,toc,numberedsection=nolabel]{glossaries}
+\usepackage[xindy,acronym,sanitizesort,toc=true,nonumberlist]{glossaries}
+\makenoidxglossaries
+
+\newglossaryentry{@glo198-tai}{
+	name         = {Copiadora TAI Debrie.},
+	description  = {Copiadora óptica producida por la compañía francesa Debrie. Muchos archivos y laboratorios fílmicos utilizan la impresora TAI para duplicar películas de nitrato deterioradas y frágiles porque puede procesar película de archivo contraída y puede equiparse con una \gls{@glo199-vental}},
+	text         = {Copiadora tai debrie},
+}
+\newglossaryentry{@glo199-vental}{
+	name         = {Ventanilla líquida.},
+	description  = {(\emph{Wet Gate}): técnica aplicada durante la duplicación de una película a través de una copiadora especialmente adaptada para eliminar rayas superficiales. Normalmente los surcos desvían luz durante la duplicación y producen líneas negras en la nueva copia fílmica. En el proceso de ventanilla líquida la película se sumerge en una solución que rellena dichas rayas a medida que cada fotograma se duplica en una nueva película},
+	text         = {Ventanilla líquida},
+}
+
+%hyperref siempre debe quedar último
 \usepackage{hyperref}
 % termina preámbulo predefinido
 
 %comienza preámbulo dinámico desde la base de datos
 \boolfalse{FileSectionNames}% If false, numbers the files.
 \renewcommand{\linkhomename}{Inicio}
-\renewcommand{\linkpreviousname}{Anterior}
-\renewcommand{\linknextname}{Siguiente}
+\renewcommand{\linkpreviousname}{Ant.}
+\renewcommand{\linknextname}{Sig.}
 \renewcommand{\sidetocname}{Sumario}
 \setcounter{tocdepth}{2}% Include subsections in the \TOC.
 \setcounter{secnumdepth}{2}% Number down to subsections.
@@ -35,7 +49,8 @@ latexmk]{lwarp}
 \HTMLDescription{Cada página de salida HTML debe tener su propia meta descripción HTML, que usualmente aparece en los resultados de búsqueda en la web.}% Generalmente, está limitada a alrededor de 150 caracteres de longitud y no debe incluir el carácter de comillas dobles ASCII.}% Sets the HTML meta description.
 \HTMLFirstPageTop{\includegraphics[width=5cm]{cover.png}}
 %\HTMLPageTop{Después de parir}
-\HTMLPageBottom{Información de contacto y legales (\url{https://www.edicionesimagomundi.com/})}
+\HTMLFirstPageBottom{Información de contacto y legales (\url{https://www.edicionesimagomundi.com/})}
+\HTMLPageBottom{\LinkPrevious | \LinkHome | \LinkNext}
 \HTMLKeywords{clave1,clave2,clave3}
 \HTMLAddMeta{book-title}{Después de parir}
 \HTMLAddMeta{subtitle}{Que dolor}
@@ -72,6 +87,10 @@ Resolver un diseño de página tal que aparezca la tapa y los datos de catalogac
 
 \lipsum[1]
 
+\gls{@glo198-tai}
+
+\gls{@glo199-vental}
+
 \emph{Nulla malesuada porttitor diam}. Donec felis erat, congue non, volutpat at, tincidunt tristique, libero. Vivamus viverra fermentum felis. Donec nonummy pellentesque ante. Phasellus adipiscing semper elit. Proin fermentum massa ac quam. Sed diam turpis, molestie vitae, placerat a, molestie nec, leo. Maecenas lacinia. Nam ipsum ligula, eleifend at, accumsan nec, suscipit a, ipsum. Morbi blandit ligula feugiat magna. Nunc eleifend consequat lorem. Sed lacinia nulla vitae enim. Pellentesque tincidunt purus vel magna. Integer non enim. Praesent euismod nunc eu purus. Donec bibendum quam in tellus. Nullam cursus pulvinar lectus. Donec et mi. Nam vulputate metus eu enim. Vestibulum pellentesque felis eu massa \parencite{@940-SHUMWAY1999}.\footnote{\emph{Nulla malesuada porttitor diam}. Donec felis erat, congue non, volutpat at, tincidunt tristique, libero. Vivamus viverra fermentum felis. Donec nonummy pellentesque ante. Phasellus adipiscing semper elit.}
 
 \lipsum[1]
@@ -106,7 +125,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibu
 \lipsum[3]
 
 \begin{quote}
-	\enquote{Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue eu neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas}.
+	\enquote{Lorem\index[concepto]{Lorem} ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue eu neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas}\index[onomastico]{egestas}.
 \end{quote}
 
 \lipsum[5]
@@ -163,8 +182,14 @@ As discussed in \ref{mychapter2}, lorem ipsum dolor sit amet.
 
 \backmatter
 
-\chapter{Referencias bibliográficas}
-\printbibliography[heading=none]
+%\ForceHTMLPage
+%\printnoidxglossary[title={Índice de siglas},type=\acronymtype]
+
+\ForceHTMLPage
+\printnoidxglossary[title={Glosario de términos}]
+
+\ForceHTMLPage
+\printbibliography[heading=bibintoc]
 
 \chapter{Legales}
 

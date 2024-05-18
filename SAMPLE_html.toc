@@ -13,6 +13,7 @@
 \contentsline {chapter}{\numberline {3}{\ignorespaces and next meeting\relax }}{29}{}%
 \contentsline {section}{\numberline {3.1}{\ignorespaces Title section\relax }}{30}{}%
 \contentsline {subsection}{\numberline {3.1.1}{\ignorespaces Title section\relax }}{31}{}%
-\contentsline {chapter}{Referencias bibliográficas}{33}{}%
-\contentsline {chapter}{Legales}{35}{}%
-\contentsline {chapter}{Colofón}{37}{}%
+\contentsline {chapter}{Glosario de términos}{34}{}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{36}{}%
+\contentsline {chapter}{Legales}{38}{}%
+\contentsline {chapter}{Colofón}{40}{}%
