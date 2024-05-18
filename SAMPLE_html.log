@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.5.15)  17 MAY 2024 19:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.5.15)  17 MAY 2024 21:42
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1182,32 +1182,247 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 \Gin@req@height=\dimen155
 \Gin@req@width=\dimen156
 ))
-(/usr/share/texmf-dist/tex/latex/lwarp/lwarp-backref.sty
-Package lwarp Info: Using package `backref',
+(/usr/share/texmf-dist/tex/latex/lwarp/lwarp-biblatex.sty
+Package lwarp Info: Using package `biblatex',
 (lwarp)             and adding lwarp modifications, including options,
-(lwarp)              on input line 19.
-Package: lwarp-backref 2016/05/21
+(lwarp)              on input line 23.
+Package: lwarp-biblatex 2018/03/04
 
-(/usr/share/texmf-dist/tex/latex/hyperref/backref.sty
-Package: backref 2023-11-26 v1.44 Bibliographical back referencing
+(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
 
-(/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+(/usr/share/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count341
 
-(/usr/share/texmf-dist/tex/latex/base/atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
-kage
-with kernel methods
-)
-(/usr/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
-Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
-
-(/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+(/usr/share/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-85.
+(/usr/share/texmf-dist/tex/latex/lwarp/lwarp-url.sty
+Package lwarp Info: Using package `url',
+(lwarp)             and adding lwarp modifications, including options,
+(lwarp)              on input line 22.
+Package: lwarp-url 2013/09/16
+
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+))
+\c@tabx@nest=\count342
+\c@listtotal=\count343
+\c@listcount=\count344
+\c@liststart=\count345
+\c@liststop=\count346
+\c@citecount=\count347
+\c@citetotal=\count348
+\c@multicitecount=\count349
+\c@multicitetotal=\count350
+\c@instcount=\count351
+\c@maxnames=\count352
+\c@minnames=\count353
+\c@maxitems=\count354
+\c@minitems=\count355
+\c@citecounter=\count356
+\c@maxcitecounter=\count357
+\c@savedcitecounter=\count358
+\c@uniquelist=\count359
+\c@uniquename=\count360
+\c@refsection=\count361
+\c@refsegment=\count362
+\c@maxextratitle=\count363
+\c@maxextratitleyear=\count364
+\c@maxextraname=\count365
+\c@maxextradate=\count366
+\c@maxextraalpha=\count367
+\c@abbrvpenalty=\count368
+\c@highnamepenalty=\count369
+\c@lownamepenalty=\count370
+\c@maxparens=\count371
+\c@parenlevel=\count372
+\blx@tempcnta=\count373
+\blx@tempcntb=\count374
+\blx@tempcntc=\count375
+\c@blx@maxsection=\count376
+\blx@maxsegment@0=\count377
+\blx@notetype=\count378
+\blx@parenlevel@text=\count379
+\blx@parenlevel@foot=\count380
+\blx@sectionciteorder@0=\count381
+\blx@sectionciteorderinternal@0=\count382
+\blx@entrysetcounter=\count383
+\blx@biblioinstance=\count384
+\labelnumberwidth=\skip77
+\labelalphawidth=\skip78
+\biblabelsep=\skip79
+\bibitemsep=\skip80
+\bibnamesep=\skip81
+\bibinitsep=\skip82
+\bibparsep=\skip83
+\bibhang=\skip84
+\blx@bcfin=\read5
+\blx@bcfout=\write7
+\blx@langwohyphens=\language6
+\c@mincomprange=\count385
+\c@maxcomprange=\count386
+\c@mincompwidth=\count387
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'authoryear.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count388
+\c@savedafterword=\count389
+\c@annotator=\count390
+\c@savedannotator=\count391
+\c@author=\count392
+\c@savedauthor=\count393
+\c@bookauthor=\count394
+\c@savedbookauthor=\count395
+\c@commentator=\count396
+\c@savedcommentator=\count397
+\c@editor=\count398
+\c@savededitor=\count399
+\c@editora=\count400
+\c@savededitora=\count401
+\c@editorb=\count402
+\c@savededitorb=\count403
+\c@editorc=\count404
+\c@savededitorc=\count405
+\c@foreword=\count406
+\c@savedforeword=\count407
+\c@holder=\count408
+\c@savedholder=\count409
+\c@introduction=\count410
+\c@savedintroduction=\count411
+\c@namea=\count412
+\c@savednamea=\count413
+\c@nameb=\count414
+\c@savednameb=\count415
+\c@namec=\count416
+\c@savednamec=\count417
+\c@translator=\count418
+\c@savedtranslator=\count419
+\c@shortauthor=\count420
+\c@savedshortauthor=\count421
+\c@shorteditor=\count422
+\c@savedshorteditor=\count423
+\c@labelname=\count424
+\c@savedlabelname=\count425
+\c@institution=\count426
+\c@savedinstitution=\count427
+\c@lista=\count428
+\c@savedlista=\count429
+\c@listb=\count430
+\c@savedlistb=\count431
+\c@listc=\count432
+\c@savedlistc=\count433
+\c@listd=\count434
+\c@savedlistd=\count435
+\c@liste=\count436
+\c@savedliste=\count437
+\c@listf=\count438
+\c@savedlistf=\count439
+\c@location=\count440
+\c@savedlocation=\count441
+\c@organization=\count442
+\c@savedorganization=\count443
+\c@origlocation=\count444
+\c@savedoriglocation=\count445
+\c@origpublisher=\count446
+\c@savedorigpublisher=\count447
+\c@publisher=\count448
+\c@savedpublisher=\count449
+\c@language=\count450
+\c@savedlanguage=\count451
+\c@origlanguage=\count452
+\c@savedoriglanguage=\count453
+\c@pageref=\count454
+\c@savedpageref=\count455
+\shorthandwidth=\skip85
+\shortjournalwidth=\skip86
+\shortserieswidth=\skip87
+\shorttitlewidth=\skip88
+\shortauthorwidth=\skip89
+\shorteditorwidth=\skip90
+\locallabelnumberwidth=\skip91
+\locallabelalphawidth=\skip92
+\localshorthandwidth=\skip93
+\localshortjournalwidth=\skip94
+\localshortserieswidth=\skip95
+\localshorttitlewidth=\skip96
+\localshortauthorwidth=\skip97
+\localshorteditorwidth=\skip98
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+\c@textcitecount=\count456
+\c@textcitetotal=\count457
+\c@textcitemaxnames=\count458
+\c@biburlbigbreakpenalty=\count459
+\c@biburlbreakpenalty=\count460
+\c@biburlnumpenalty=\count461
+\c@biburlucpenalty=\count462
+\c@biburllcpenalty=\count463
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count464
+)
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
+File: authoryear.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count465
+\c@bbx:relatedtotal=\count466
+))
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx
+File: authoryear.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2024-02-20 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 )))
 (/usr/share/texmf-dist/tex/latex/lwarp/lwarp-hyperref.sty
 Package lwarp Info: Using the lwarp HTML version of package `hyperref',
@@ -1216,11 +1431,11 @@ Package lwarp Info: Using the lwarp HTML version of package `hyperref',
 (lwarp)             do not attempt to patch lwarp's version of `hyperref'.)
 (lwarp)              on input line 25.
 )
-\LWR@userspaperwidth=\skip77
-\LWR@userspaperheight=\skip78
-\LWR@usersmarginparwidth=\skip79
-\LWR@userstextwidth=\skip80
-\LWR@userstextheight=\skip81
+\LWR@userspaperwidth=\skip99
+\LWR@userspaperheight=\skip100
+\LWR@usersmarginparwidth=\skip101
+\LWR@userstextwidth=\skip102
+\LWR@userstextheight=\skip103
 
 (/usr/share/texmf-dist/tex/latex/lwarp/lwarp-cleveref.sty
 Package lwarp Info: Using package `cleveref',
@@ -1235,9 +1450,14 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
- (./SAMPLE_html.aux
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
+
+
+Package biblatex Warning: Patching footnotes failed.
+(biblatex)                Footnote detection will not work.
+
+(./SAMPLE_html.aux
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
 )
 \openout1 = `SAMPLE_html.aux'.
 
@@ -1322,16 +1542,16 @@ LaTeX Info: Redefining \. on input line 37.
 LaTeX Info: Redefining \% on input line 37.
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count341
+\scratchcounter=\count467
 \scratchdimen=\dimen157
 \scratchbox=\box60
-\nofMPsegments=\count342
-\nofMParguments=\count343
+\nofMPsegments=\count468
+\nofMParguments=\count469
 \everyMPshowfont=\toks29
-\MPscratchCnt=\count344
+\MPscratchCnt=\count470
 \MPscratchDim=\dimen158
-\MPnumerator=\count345
-\makeMPintoPDFobject=\count346
+\MPnumerator=\count471
+\makeMPintoPDFobject=\count472
 \everyMPtoPDFconversion=\toks30
 ) (/usr/share/texmf-dist/tex/latex/lwarp/lwarp-epstopdf-base.sty
 Package lwarp Info: Using package `epstopdf-base',
@@ -1348,6 +1568,22 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 )))
+Package biblatex Info: Trying to load language 'spanish'...
+Package biblatex Info: ... file 'spanish.lbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
+File: spanish.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout7 = `SAMPLE_html.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'SAMPLE_html.bbl' found.
+ (./SAMPLE_html.bbl)
+Package biblatex Info: Reference section=0 on input line 37.
+Package biblatex Info: Reference segment=0 on input line 37.
 \openout5 = `SAMPLE-images.txt'.
 
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 3
@@ -1377,6 +1613,7 @@ Done.
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
 /enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/cm-s
 uper/cm-super-ts1.enc}] (./SAMPLE_html.toc
+LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 
@@ -1425,12 +1662,13 @@ Overfull \hbox (10.30847pt too wide) detected at line 15
  []
 
 )
-\tf@toc=\write7
-\openout7 = `SAMPLE_html.toc'.
+\tf@toc=\write8
+\openout8 = `SAMPLE_html.toc'.
 
  [2]
 File: "lwarp_mathjax.txt"  (verbatim)
  [3] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 
@@ -1471,6 +1709,7 @@ Overfull \hbox (3.69897pt too wide) detected at line 14
 ) [4]
 File: "lwarp_mathjax.txt"  (verbatim)
  [5] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 
@@ -1516,6 +1755,7 @@ Package lipsum Warning: Unknown language 'latin'. Hyphenation patterns for
 [6] [7]
 File: "lwarp_mathjax.txt"  (verbatim)
  [8] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 
@@ -1556,6 +1796,7 @@ Overfull \hbox (3.69897pt too wide) detected at line 14
 ) [9] [10] [11] [12]
 File: "lwarp_mathjax.txt"  (verbatim)
  [13] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 
@@ -1596,6 +1837,7 @@ Overfull \hbox (3.69897pt too wide) detected at line 14
 ) [14] [15]
 File: "lwarp_mathjax.txt"  (verbatim)
  [16] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 
@@ -1636,6 +1878,7 @@ Overfull \hbox (3.69897pt too wide) detected at line 14
 ) [17]
 File: "lwarp_mathjax.txt"  (verbatim)
  [18] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 
@@ -1676,6 +1919,7 @@ Overfull \hbox (3.69897pt too wide) detected at line 14
 ) [19] [20] [21]
 File: "lwarp_mathjax.txt"  (verbatim)
  [22] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 
@@ -1716,6 +1960,7 @@ Overfull \hbox (3.69897pt too wide) detected at line 14
 ) [23]
 File: "lwarp_mathjax.txt"  (verbatim)
  [24] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 
@@ -1756,6 +2001,7 @@ Overfull \hbox (3.69897pt too wide) detected at line 14
 ) [25] [26]
 File: "lwarp_mathjax.txt"  (verbatim)
  [27] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 
@@ -1796,6 +2042,7 @@ Overfull \hbox (3.69897pt too wide) detected at line 14
 ) [28] [29] [30]
 File: "lwarp_mathjax.txt"  (verbatim)
  [31] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 
@@ -1836,6 +2083,7 @@ Overfull \hbox (3.69897pt too wide) detected at line 14
 ) [32]
 File: "lwarp_mathjax.txt"  (verbatim)
  [33] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 
@@ -1873,30 +2121,75 @@ Overfull \hbox (3.69897pt too wide) detected at line 14
 \T1/cmr/m/n/8 3.1. 
  []
 
-) [34] (./SAMPLE_html.aux
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
+) [34]
+File: "lwarp_mathjax.txt"  (verbatim)
+ [35] (./SAMPLE_html.sidetoc
+LaTeX Info: Redefining \sptext on input line 1.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (3.69897pt too wide) detected at line 5
+\T1/cmr/m/n/8 1.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 6
+\T1/cmr/m/n/8 1.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 7
+\T1/cmr/m/n/8 1.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 9
+\T1/cmr/m/n/8 2.1. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 10
+\T1/cmr/m/n/8 2.2. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 11
+\T1/cmr/m/n/8 2.3. 
+ []
+
+
+Overfull \hbox (3.69897pt too wide) detected at line 14
+\T1/cmr/m/n/8 3.1. 
+ []
+
+) [36] (./SAMPLE_html.aux
+LaTeX Info: Redefining \sptext on input line 10.
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
 )
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
+Package logreq Info: Writing requests to 'SAMPLE_html.run.xml'.
+\openout1 = `SAMPLE_html.run.xml'.
+
  ) ) 
 Here is how much of TeX's memory you used:
- 15811 strings out of 476076
- 293850 string characters out of 5793775
- 1994187 words of memory out of 5000000
- 37300 multiletter control sequences out of 15000+600000
+ 22461 strings out of 476076
+ 428563 string characters out of 5793775
+ 1995187 words of memory out of 5000000
+ 43914 multiletter control sequences out of 15000+600000
  561205 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 103i,5n,120p,1202b,935s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,5n,108p,1231b,2441s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share
 /texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb></usr/share/texmf-dist/fon
 ts/type1/public/cm-super/sftt0800.pfb>
-Output written on SAMPLE_html.pdf (34 pages, 195329 bytes).
+Output written on SAMPLE_html.pdf (36 pages, 210510 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
- 89 compressed objects within 1 object stream
+ 139 PDF objects out of 1000 (max. 8388607)
+ 93 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

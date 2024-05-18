@@ -3,15 +3,15 @@
 HomeHTMLFilename=index,% Filename of the homepage.
 HTMLFilename={node-},% Filename prefix of other pages.
 mathjax,%Use MathJax to display math.
-latexmk
-]{lwarp}
+latexmk]{lwarp}
 \usepackage{lipsum}
 
 \usepackage[spanish]{babel}
 \usepackage{csquotes}
 \usepackage{graphicx}
-
-\usepackage{backref}
+\usepackage[backend=biber,backref=true,indexing=cite,citestyle=authoryear,style=authoryear]{biblatex}
+% referencias
+\addbibresource{SAMPLE.bib}
 \usepackage{hyperref}
 
 \boolfalse{FileSectionNames}% If false, numbers the files.
@@ -47,7 +47,7 @@ Resolver un diseño de página tal que aparezca la tapa y los datos de catalogac
 
 \lipsum[1]
 
-\emph{Nulla malesuada porttitor diam}. Donec felis erat, congue non, volutpat at, tincidunt tristique, libero. Vivamus viverra fermentum felis. Donec nonummy pellentesque ante. Phasellus adipiscing semper elit. Proin fermentum massa ac quam. Sed diam turpis, molestie vitae, placerat a, molestie nec, leo. Maecenas lacinia. Nam ipsum ligula, eleifend at, accumsan nec, suscipit a, ipsum. Morbi blandit ligula feugiat magna. Nunc eleifend consequat lorem. Sed lacinia nulla vitae enim. Pellentesque tincidunt purus vel magna. Integer non enim. Praesent euismod nunc eu purus. Donec bibendum quam in tellus. Nullam cursus pulvinar lectus. Donec et mi. Nam vulputate metus eu enim. Vestibulum pellentesque felis eu massa.\footnote{\emph{Nulla malesuada porttitor diam}. Donec felis erat, congue non, volutpat at, tincidunt tristique, libero. Vivamus viverra fermentum felis. Donec nonummy pellentesque ante. Phasellus adipiscing semper elit.}
+\emph{Nulla malesuada porttitor diam}. Donec felis erat, congue non, volutpat at, tincidunt tristique, libero. Vivamus viverra fermentum felis. Donec nonummy pellentesque ante. Phasellus adipiscing semper elit. Proin fermentum massa ac quam. Sed diam turpis, molestie vitae, placerat a, molestie nec, leo. Maecenas lacinia. Nam ipsum ligula, eleifend at, accumsan nec, suscipit a, ipsum. Morbi blandit ligula feugiat magna. Nunc eleifend consequat lorem. Sed lacinia nulla vitae enim. Pellentesque tincidunt purus vel magna. Integer non enim. Praesent euismod nunc eu purus. Donec bibendum quam in tellus. Nullam cursus pulvinar lectus. Donec et mi. Nam vulputate metus eu enim. Vestibulum pellentesque felis eu massa \parencite{@940-SHUMWAY1999}.\footnote{\emph{Nulla malesuada porttitor diam}. Donec felis erat, congue non, volutpat at, tincidunt tristique, libero. Vivamus viverra fermentum felis. Donec nonummy pellentesque ante. Phasellus adipiscing semper elit.}
 
 \lipsum[1]
 
@@ -60,7 +60,7 @@ Resolver un diseño de página tal que aparezca la tapa y los datos de catalogac
 
 \section{Title}
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue eu neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris ut leo. Cras viverra metus rhoncus sem. Nulla et lectus vestibulum urna fringilla ultrices. Phasellus eu tellus sit amet tortor gravida placerat. Integer sapien est, iaculis in, pretium quis, viverra ac, nunc. Praesent eget sem vel leo ultrices bibendum. Aenean faucibus. Morbi dolor nulla, malesuada eu, pulvinar at, mollis ac, nulla. Curabitur auctor semper nulla. Donec varius orci eget risus. Duis nibh mi, congue eu, accumsan eleifend, sagittis quis, diam. Duis eget orci sit amet orci dignissim rutrum.\footnote{\lipsum[3]}
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue eu neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris ut leo. Cras viverra metus rhoncus sem. Nulla et lectus vestibulum urna fringilla ultrices. Phasellus eu tellus sit amet tortor gravida placerat. Integer sapien est, iaculis in, pretium quis, viverra ac, nunc. Praesent eget sem vel leo ultrices bibendum. Aenean faucibus. Morbi dolor nulla, malesuada eu, pulvinar at, mollis ac, nulla. Curabitur auctor semper nulla. Donec varius orci eget risus. Duis nibh mi, congue eu, accumsan eleifend, sagittis quis, diam. Duis eget orci sit amet orci dignissim rutrum \parencite{@3070-TARKOVSKI1995}.\footnote{\lipsum[3]}
 
 \lipsum[1]
 
@@ -137,6 +137,9 @@ As discussed in \ref{mychapter2}, lorem ipsum dolor sit amet.
 \lipsum[1]
 
 \backmatter
+
+\chapter{Referencias bibliográficas}
+\printbibliography[heading=none]
 
 \chapter{Legales}
 
