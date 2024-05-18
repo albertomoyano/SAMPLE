@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024/Arch Linux)  (format=lualatex 2024.5.15)  17 MAY 2024 23:48
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024/Arch Linux)  (format=lualatex 2024.5.15)  18 MAY 2024 10:00
  restricted system commands enabled.
 **SAMPLE.tex
 (./SAMPLE.tex
@@ -1027,37 +1027,37 @@ LaTeX Info: Redefining \% on input line 12.
 )
 \openout1 = SAMPLE.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
-3.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
+9.
  (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
 
 \openout4 = lwarpmk.conf
 
 \openout4 = SAMPLE.lwarpmkconf
-LaTeX Info: Redefining \. on input line 43.
-LaTeX Info: Redefining \% on input line 43.
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1096,20 +1096,20 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'SAMPLE.bbl' found.
  (./SAMPLE.bbl)
-Package biblatex Info: Reference section=0 on input line 43.
-Package biblatex Info: Reference segment=0 on input line 43.
-Package hyperref Info: Link coloring OFF on input line 43.
+Package biblatex Info: Reference section=0 on input line 59.
+Package biblatex Info: Reference segment=0 on input line 59.
+Package hyperref Info: Link coloring OFF on input line 59.
 
 (./SAMPLE.out) (./SAMPLE.out)
 \@outlinefile=\write6
 
 \openout6 = SAMPLE.out
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 48.
+(Font)              <12> on input line 64.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 48.
+(Font)              <8> on input line 64.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 48.
+(Font)              <6> on input line 64.
 
 
 LaTeX Warning: No \author given.
@@ -1146,13 +1146,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 \openout7 = SAMPLE.toc
  [3]
-LaTeX Info: Redefining \. on input line 51.
-LaTeX Info: Redefining \% on input line 51.
+LaTeX Info: Redefining \. on input line 67.
+LaTeX Info: Redefining \% on input line 67.
  [4
 
 ] [5]
-LaTeX Info: Redefining \. on input line 55.
-LaTeX Info: Redefining \% on input line 55.
+LaTeX Info: Redefining \. on input line 71.
+LaTeX Info: Redefining \% on input line 71.
  [6
 
 ]
@@ -1164,8 +1164,8 @@ Package lipsum Warning: Unknown language 'latin'. Hyphenation patterns for
 (lipsum)                hyphenation (you can use \usepackage[base]{babel}).
 
 [7]
-LaTeX Info: Redefining \. on input line 63.
-LaTeX Info: Redefining \% on input line 63.
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
  [8
 
 ]
@@ -1176,61 +1176,102 @@ Capítulo 1.
 <imagen1.jpg, id=151, 246.6816pt x 164.2938pt>
 File: imagen1.jpg Graphic file (type jpg)
 <use imagen1.jpg>
-Package luatex.def Info: imagen1.jpg  used on input line 78.
+Package luatex.def Info: imagen1.jpg  used on input line 94.
 (luatex.def)             Requested size: 345.0pt x 229.79663pt.
-LaTeX Info: Redefining \. on input line 91.
-LaTeX Info: Redefining \% on input line 91.
+LaTeX Info: Redefining \. on input line 107.
+LaTeX Info: Redefining \% on input line 107.
  [2<./imagen1.jpg>]
-LaTeX Info: Redefining \. on input line 102.
-LaTeX Info: Redefining \% on input line 102.
+LaTeX Info: Redefining \. on input line 118.
+LaTeX Info: Redefining \% on input line 118.
  [3]
-LaTeX Info: Redefining \. on input line 102.
-LaTeX Info: Redefining \% on input line 102.
+LaTeX Info: Redefining \. on input line 118.
+LaTeX Info: Redefining \% on input line 118.
  [4
 
 ]
 Capítulo 2.
 [5]
-LaTeX Info: Redefining \. on input line 122.
-LaTeX Info: Redefining \% on input line 122.
+LaTeX Info: Redefining \. on input line 138.
+LaTeX Info: Redefining \% on input line 138.
  [6]
-LaTeX Info: Redefining \. on input line 134.
-LaTeX Info: Redefining \% on input line 134.
+LaTeX Info: Redefining \. on input line 150.
+LaTeX Info: Redefining \% on input line 150.
  [7]
-LaTeX Info: Redefining \. on input line 135.
-LaTeX Info: Redefining \% on input line 135.
+LaTeX Info: Redefining \. on input line 151.
+LaTeX Info: Redefining \% on input line 151.
  [8]
 Capítulo 3.
 [9
 
 ]
-LaTeX Info: Redefining \. on input line 148.
-LaTeX Info: Redefining \% on input line 148.
- [10])
-! Incomplete \iffalse; all text was ignored after line 151.
-<inserted text> 
-\fi 
-<*> SAMPLE.tex
-           
-The file ended while I was skipping conditional text.
-This kind of error happens when you say `\if...' and forget
-the matching `\fi'. I've inserted a `\fi'; this might work.
-
-! Emergency stop.
-<*> SAMPLE.tex
-           
-*** (job aborted, no legal \end found)
+LaTeX Info: Redefining \. on input line 164.
+LaTeX Info: Redefining \% on input line 164.
+ [10] [11
 
 
+]
+LaTeX Info: Redefining \. on input line 169.
+LaTeX Info: Redefining \% on input line 169.
+ [12
+
+] [13]
+LaTeX Info: Redefining \. on input line 173.
+LaTeX Info: Redefining \% on input line 173.
+ [14
+
+] [15] (./SAMPLE.aux
+LaTeX Info: Redefining \sptext on input line 12.
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
+)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2020/03/25>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `SAMPLE.out' has not changed.
+(rerunfilecheck)             Checksum: 24C4F472AF471CB6D4C5C3E2B0E45F29;1924.
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
+Package logreq Info: Writing requests to 'SAMPLE.run.xml'.
+
+\openout1 = SAMPLE.run.xml
+)
 
 Here is how much of LuaTeX's memory you used:
- 21531 strings out of 476447
- 125161,1977958 words of node,token memory allocated 2646 words of node memory still in use:
-   7 hlist, 3 rule, 3 mark, 7 disc, 2 local_par, 1 dir, 54 glue, 5 kern, 10 pena
-lty, 167 glyph, 100 attribute, 87 glue_spec, 51 attribute_list, 1 temp, 1 if_sta
-ck, 1 shape, 7 write, 2 pdf_dest nodes
-   avail lists: 1:1,2:429,3:185,4:33,5:242,6:52,7:9119,8:2,9:254,10:28,11:833
- 42643 multiletter control sequences out of 65536+600000
+ 21543 strings out of 476447
+ 125161,1977958 words of node,token memory allocated
+ 560 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 7 glue, 3 kern, 1 glyph, 16 attribute, 65 glue_spec
+, 9 attribute_list, 1 write nodes
+   avail lists: 1:1,2:558,3:204,4:33,5:268,6:54,7:9332,8:2,9:261,10:27,11:840
+ 42641 multiletter control sequences out of 65536+600000
  52 fonts using 4274895 bytes
  80i,8n,89p,1037b,1922s stack positions out of 10000i,1000n,20000p,200000b,200000s
-!  ==> Fatal error occurred, no output PDF file produced!
+</usr/share/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></usr/share
+/texmf-dist/fonts/opentype/public/lm/lmroman8-italic.otf></usr/share/texmf-dist/
+fonts/opentype/public/lm/lmroman6-regular.otf></usr/share/texmf-dist/fonts/opent
+ype/public/lm/lmroman7-regular.otf></usr/share/texmf-dist/fonts/opentype/public/
+lm/lmroman10-italic.otf></usr/share/texmf-dist/fonts/opentype/public/lm/lmromans
+lant10-regular.otf></usr/share/texmf-dist/fonts/opentype/public/lm/lmroman10-reg
+ular.otf></usr/share/texmf-dist/fonts/opentype/public/lm/lmroman7-bold.otf></usr
+/share/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></usr/share/texmf-
+dist/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf-dist/fonts/op
+entype/public/lm/lmromancaps10-regular.otf></usr/share/texmf-dist/fonts/opentype
+/public/lm/lmroman12-regular.otf></usr/share/texmf-dist/fonts/opentype/public/lm
+/lmroman17-regular.otf>
+Output written on SAMPLE.pdf (23 pages, 157411 bytes).
+
+PDF statistics: 314 PDF objects out of 1000 (max. 8388607)
+ 246 compressed objects within 3 object streams
+ 52 named destinations out of 1000 (max. 131072)
+ 137 words of extra memory for PDF output out of 10000 (max. 100000000)
+

@@ -3,6 +3,9 @@
 HomeHTMLFilename=index,% Filename of the homepage.
 HTMLFilename={node-},% Filename prefix of other pages.
 mathjax,%Use MathJax to display math.
+xindy,
+xindyLanguage=spanish,
+xindyCodepage=utf8,
 latexmk]{lwarp}
 \usepackage{lipsum}
 
@@ -34,8 +37,21 @@ latexmk]{lwarp}
 %\HTMLPageTop{Después de parir}
 \HTMLPageBottom{Información de contacto y legales (\url{https://www.edicionesimagomundi.com/})}
 \HTMLKeywords{clave1,clave2,clave3}
-\HTMLAddMeta{publisher} {Ediciones Imago Mundi}
-\HTMLAddMeta{country} {Buenos Aires}
+\HTMLAddMeta{book-title}{Después de parir}
+\HTMLAddMeta{subtitle}{Que dolor}
+\HTMLAddMeta{trans-title}{After birthing}
+\HTMLAddMeta{edition}{Primera}
+\HTMLAddMeta{publisher-name}{Ediciones Imago Mundi}
+\HTMLAddMeta{publisher-loc}{Buenos Aires}
+\HTMLAddMeta{isbn}{000-000-0000-000-0}
+\HTMLAddMeta{pub-date}{2024/05/17}
+\HTMLAddMeta{volume}{1}
+\HTMLAddMeta{series-title}{Colección Bitácora Argentina}
+\HTMLAddMeta{copyright-statement}{© 2023 Example Publisher}
+\HTMLAddMeta{license-type}{Tipo de licencia: CC BY}
+\HTMLAddMeta{license-text}{Creative Commons Attribution 4.0 International License}
+\HTMLAddMeta{funding-source}{Fuente de financiamiento: National Science Foundation}
+\HTMLAddMeta{abstract}{Cada página de salida HTML debe tener su propia meta descripción HTML, que usualmente aparece en los resultados de búsqueda en la web. Generalmente, está limitada a alrededor de 150 caracteres de longitud y no debe incluir el carácter de comillas dobles ASCII.}
 \CSSFilename{lwarp_custom.css}
 
 \title{Después de parir}
@@ -75,7 +91,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibu
 
 \begin{figure}[!ht]
 	\centering
-	\includegraphics[width=\textwidth]{imagen1.jpg}
+	\includegraphics[width=\linewidth]{imagen1.jpg}
 	\caption{Este es el epígrafe de la figura a color.}\label{figura1}
 \end{figure}
 
@@ -156,7 +172,7 @@ As discussed in \ref{mychapter2}, lorem ipsum dolor sit amet.
 
 \chapter{Colofón}
 
-La composición tipográfica de este libro se realizó utilizando gbTeXpublisher.
+La composición tipográfica de este libro se realizó utilizando \href{https://github.com/albertomoyano/gbtexpublisher}{gbTeXpublisher.}
 
 Las familias tipográficas utilizadas dentro del libro son: IBM Plex, una superfamilia de tipografía abierta, diseñada y desarrollada conceptualmente por Mike Abbink en IBM con colaboración de Bold Monday y Libertinus, bifurcación de la fuente Linux Libertine, diseñada para el texto del cuerpo y la lectura extendida.
 

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024/Arch Linux)  (format=lualatex 2024.5.15)  17 MAY 2024 23:48
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024/Arch Linux)  (format=lualatex 2024.5.15)  18 MAY 2024 10:00
  restricted system commands enabled.
 **SAMPLE_html.tex
 (./SAMPLE_html.tex
@@ -1319,27 +1319,27 @@ LaTeX Info: Redefining \% on input line 10.
 )
 \openout1 = SAMPLE_html.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
-3.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
+9.
  (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
 
 (/usr/share/texmf-dist/tex/latex/lwarp/lwarp-geometry.sty
 Package lwarp Info: Replacing package `geometry' with the lwarp version,
@@ -1385,8 +1385,8 @@ Package lwarp Info: Babel has been loaded. Lwarp also uses cleveref.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 43.
-LaTeX Info: Redefining \% on input line 43.
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count473
@@ -1430,8 +1430,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'SAMPLE_html.bbl' found.
  (./SAMPLE_html.bbl)
-Package biblatex Info: Reference section=0 on input line 43.
-Package biblatex Info: Reference segment=0 on input line 43.
+Package biblatex Info: Reference section=0 on input line 59.
+Package biblatex Info: Reference segment=0 on input line 59.
 
 \openout5 = SAMPLE-images.txt
 File: "lwarp_mathjax.txt"  (verbatim)
@@ -2020,18 +2020,18 @@ Package logreq Info: Writing requests to 'SAMPLE_html.run.xml'.
 
 Here is how much of LuaTeX's memory you used:
  23663 strings out of 476447
- 305433,1977958 words of node,token memory allocated
+ 305434,1977958 words of node,token memory allocated
  505 words of node memory still in use:
    2 hlist, 1 rule, 3 kern, 1 glyph, 3 attribute, 76 glue_spec, 2 attribute_list
  nodes
-   avail lists: 1:6,2:2822,3:5215,4:83,5:881,6:531,7:28088,9:1616,10:46,11:1204
+   avail lists: 1:5,2:2978,3:5267,4:83,5:881,6:531,7:30216,9:1644,10:46,11:1204
  44238 multiletter control sequences out of 65536+600000
  20 fonts using 1370671 bytes
  93i,5n,104p,1062b,2403s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/opentype/public/lm/lmroman8-italic.otf></usr/share/
 texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf></usr/share/texmf-dist/
 fonts/opentype/public/lm/lmmono8-regular.otf>
-Output written on SAMPLE_html.pdf (37 pages, 158775 bytes).
+Output written on SAMPLE_html.pdf (37 pages, 166838 bytes).
 
 PDF statistics: 141 PDF objects out of 1000 (max. 8388607)
  92 compressed objects within 1 object stream

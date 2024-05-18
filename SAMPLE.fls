@@ -373,3 +373,7 @@ INPUT /home/alberto/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman6-r
 INPUT /home/alberto/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman8-italic.luc
 INPUT ./imagen1.jpg
 INPUT ./imagen1.jpg
+INPUT ./SAMPLE.aux
+INPUT ./SAMPLE.out
+INPUT ./SAMPLE.run.xml
+OUTPUT SAMPLE.run.xml
