@@ -1,0 +1,125 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{@3159-FUNES2006}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c472cb8c5ac7ec687d65fc1bf83c2907}{%
+           family={Funes},
+           familyi={F\bibinitperiod},
+           given={Patricia},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Prometeo}%
+      }
+      \strng{namehash}{c472cb8c5ac7ec687d65fc1bf83c2907}
+      \strng{fullhash}{c472cb8c5ac7ec687d65fc1bf83c2907}
+      \strng{bibnamehash}{c472cb8c5ac7ec687d65fc1bf83c2907}
+      \strng{authorbibnamehash}{c472cb8c5ac7ec687d65fc1bf83c2907}
+      \strng{authornamehash}{c472cb8c5ac7ec687d65fc1bf83c2907}
+      \strng{authorfullhash}{c472cb8c5ac7ec687d65fc1bf83c2907}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Salvar la Nación. Intelectuales, cultura y política en los años veinte latinoamericanos}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \keyw{,RUBIO,CHARLAUNPaz,SAMPLE}
+    \endentry
+    \entry{@940-SHUMWAY1999}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3526c6d2ddae47a38e10725a8e292585}{%
+           family={Shumway},
+           familyi={S\bibinitperiod},
+           given={Nicolás},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Alianza}%
+      }
+      \strng{namehash}{3526c6d2ddae47a38e10725a8e292585}
+      \strng{fullhash}{3526c6d2ddae47a38e10725a8e292585}
+      \strng{bibnamehash}{3526c6d2ddae47a38e10725a8e292585}
+      \strng{authorbibnamehash}{3526c6d2ddae47a38e10725a8e292585}
+      \strng{authornamehash}{3526c6d2ddae47a38e10725a8e292585}
+      \strng{authorfullhash}{3526c6d2ddae47a38e10725a8e292585}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{La cultura de un siglo. América latina en sus revistas}
+      \field{langid}{spanish}
+      \field{title}{Nosotros y el \enquote{nosotros} de Nosotros}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \keyw{,INGENIEROS,CHARLAUNPaz,SAMPLE}
+    \endentry
+    \entry{@3070-TARKOVSKI1995}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f22756f6c1feed6d869e0e11e135d27e}{%
+           family={Tarkovski},
+           familyi={T\bibinitperiod},
+           given={Andréi},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Milán}%
+      }
+      \list{publisher}{1}{%
+        {Ubulibri}%
+      }
+      \strng{namehash}{f22756f6c1feed6d869e0e11e135d27e}
+      \strng{fullhash}{f22756f6c1feed6d869e0e11e135d27e}
+      \strng{bibnamehash}{f22756f6c1feed6d869e0e11e135d27e}
+      \strng{authorbibnamehash}{f22756f6c1feed6d869e0e11e135d27e}
+      \strng{authornamehash}{f22756f6c1feed6d869e0e11e135d27e}
+      \strng{authorfullhash}{f22756f6c1feed6d869e0e11e135d27e}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{italian}
+      \field{title}{Scolpire il tempo}
+      \field{year}{1995}
+      \field{dateera}{ce}
+      \keyw{,PIEDRAS1,CHARLAUNPaz,SAMPLE}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
